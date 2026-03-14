@@ -1,0 +1,5996 @@
+{
+  "sme": [
+    {
+      "nb": "Begrepslæring",
+      "target": "Doabaoahppan"
+    },
+    {
+      "nb": "En veileder om strukturert begrepslæring for barn og unge med språkvansker",
+      "target": "Bagadus strukturerejuvvon doabaoahppama birra mánáide ja ohppiide"
+    },
+    {
+      "nb": "Språk og begreper – teoretisk bakgrunn",
+      "target": "Doabaoahppan – teoriijavuođđu"
+    },
+    {
+      "nb": "Ord og begreper",
+      "target": "Sánit ja doahpagat"
+    },
+    {
+      "nb": "Språkutvikling",
+      "target": "Giellaovdáneapmi"
+    },
+    {
+      "nb": "Flerspråklighet",
+      "target": "Máŋggagielatvuohta"
+    },
+    {
+      "nb": "Språkvansker som gjelder utvikling",
+      "target": "Giellaváttut mat gusket ovdáneapmái"
+    },
+    {
+      "nb": "Læringsprosessen i begrepsopplæring",
+      "target": "Oahppanproseassa doabaoahpaheamis"
+    },
+    {
+      "nb": "Hvorfor er det viktig å arbeide med begreper?",
+      "target": "Manne lea dehálaš bargat doahpagiiguin?"
+    },
+    {
+      "nb": "Presentasjon og gjennomføring",
+      "target": "Ovdanbuktin ja čađaheapmi"
+    },
+    {
+      "nb": "Modell for språkverksted",
+      "target": "Giellabáji modealla"
+    },
+    {
+      "nb": "Eksempler på valg av ord",
+      "target": "Ovdamearkkat sániid válljemii"
+    },
+    {
+      "nb": "Pedagogenes vurderinger",
+      "target": "Pedagogaid árvvoštallamat"
+    },
+    {
+      "nb": "Måle effekt",
+      "target": "Mihtidit ávkki"
+    },
+    {
+      "nb": "Skåringskriterier",
+      "target": "Skorenkriteriat"
+    },
+    {
+      "nb": "Kartleggingsskjema",
+      "target": "Kártenskovvi"
+    },
+    {
+      "nb": "Litteraturliste",
+      "target": "Gáldolistu"
+    },
+    {
+      "nb": "Vedlegg",
+      "target": "Mildosat"
+    },
+    {
+      "nb": "Hva er et begrep?",
+      "target": "Mii lea erohus sánis ja doahpagis?"
+    },
+    {
+      "nb": "Hva er språk?",
+      "target": "Mii lea giella?"
+    },
+    {
+      "nb": "Språklig bevissthet",
+      "target": "Gielalaš diđolašvuohta"
+    },
+    {
+      "nb": "Språklige deler",
+      "target": "Gielalaš oasit"
+    },
+    {
+      "nb": "Sterke språkmodeller",
+      "target": "Gievrras giellamodeallat"
+    },
+    {
+      "nb": "Begreper i dagligspråket og skolespråket",
+      "target": "Doahpagat árgabeaigielas ja skuvlagielas"
+    },
+    {
+      "nb": "Første fase: Innhold - Hva betyr ordet?",
+      "target": "Vuosttaš dássi: Sisdoallu - Maid mearkkaša sátni?"
+    },
+    {
+      "nb": "Andre fase: Form",
+      "target": "Nubbi dássi: Hápmi"
+    },
+    {
+      "nb": "Tredje fase: Bruk / Oppsummering",
+      "target": "Goalmmát dássi: Geavaheapmi/Čoahkkáigeassu"
+    },
+    {
+      "nb": "Språk er grunnlaget for all kommunikasjon.",
+      "target": "Giella lea vuođđun buot gulahallamii."
+    },
+    {
+      "nb": "Barnehagens rammeplan",
+      "target": "Mánáidgárddi rámmaplána"
+    },
+    {
+      "nb": "Fagfornyelsens overordnede del",
+      "target": "Fágaođastusa obbalaš oassi"
+    },
+    {
+      "nb": "Språk er først og fremst menneskets kommunikasjonsmiddel.",
+      "target": "Giella lea olbmui vuosttažettiin gulahallangaskaoapmi."
+    },
+    {
+      "nb": "Det det jeg hører – det glemmer jeg. Det jeg ser – det husker jeg. Men det jeg gjør – det forstår jeg!",
+      "target": "Dan maid gulan – dan vajálduhttán. Dan maid oainnán – dan muittán. Muhto dan maid barggan – dan ipmirdan!"
+    },
+    {
+      "nb": "Samedigget har støttet prosjektet økonomisk.",
+      "target": "Sámediggi lea ruđalaččat dorjon prošeavtta."
+    },
+    {
+      "nb": "Barn lærer ord og begreper på ulike måter.",
+      "target": "Mánát ohppet sániid ja doahpagiid iešguđet vugiid bokte."
+    },
+    {
+      "nb": "Barns begrepsforståelse utvikles og endres kontinuerlig.",
+      "target": "Mánáid doabaipmárdus ovdána ja rievdá čađat."
+    },
+    {
+      "nb": "Systematisk begrepslæring er viktig.",
+      "target": "Systemáhtalaš doabaoahppan lea dehálaš."
+    },
+    {
+      "nb": "Natur",
+      "target": "Luondu"
+    },
+    {
+      "nb": "Tre",
+      "target": "Muorra"
+    },
+    {
+      "nb": "Menneske",
+      "target": "Olmmoš"
+    },
+    {
+      "nb": "Bok",
+      "target": "Girji"
+    },
+    {
+      "nb": "Stor",
+      "target": "Stuoris"
+    },
+    {
+      "nb": "Familie",
+      "target": "Bearaš"
+    },
+    {
+      "nb": "Vær",
+      "target": "Dálki"
+    },
+    {
+      "nb": "Mat",
+      "target": "Biebmu"
+    },
+    {
+      "nb": "Form",
+      "target": "Hápmi"
+    },
+    {
+      "nb": "Farge",
+      "target": "Ivdni"
+    },
+    {
+      "nb": "Vinter",
+      "target": "Dálvi"
+    },
+    {
+      "nb": "Kjøretøy",
+      "target": "Fievru"
+    },
+    {
+      "nb": "Sommer",
+      "target": "Geassi"
+    },
+    {
+      "nb": "Vår",
+      "target": "Giđa"
+    },
+    {
+      "nb": "Middag",
+      "target": "Gaskabeaivi"
+    },
+    {
+      "nb": "Gammel",
+      "target": "Boaris"
+    },
+    {
+      "nb": "Venn",
+      "target": "Ustit"
+    },
+    {
+      "nb": "Døgn",
+      "target": "Jándor"
+    },
+    {
+      "nb": "Kommune",
+      "target": "Suohkan"
+    },
+    {
+      "nb": "Følelse",
+      "target": "Dovdu"
+    },
+    {
+      "nb": "Klima",
+      "target": "Dálkkádat"
+    },
+    {
+      "nb": "Argument",
+      "target": "Argumeantta"
+    },
+    {
+      "nb": "Samarbeid",
+      "target": "Ovttasbargu"
+    },
+    {
+      "nb": "Utvikling",
+      "target": "Ovdáneapmi"
+    },
+    {
+      "nb": "Kirke",
+      "target": "Girku"
+    },
+    {
+      "nb": "Maskin",
+      "target": "Mášiidna"
+    },
+    {
+      "nb": "Planet",
+      "target": "Planehta"
+    },
+    {
+      "nb": "Grunnlov",
+      "target": "Vuođđoláhka"
+    },
+    {
+      "nb": "Kunst",
+      "target": "Dáidda"
+    },
+    {
+      "nb": "Identitet",
+      "target": "Identitehta"
+    },
+    {
+      "nb": "Kultur",
+      "target": "Kultuvra"
+    },
+    {
+      "nb": "Produksjon",
+      "target": "Buvttadeapmi"
+    },
+    {
+      "nb": "Læreplan",
+      "target": "Oahppoplána"
+    },
+    {
+      "nb": "Kontrakt",
+      "target": "Šiehtadus"
+    },
+    {
+      "nb": "Beregne",
+      "target": "Rehkenastit"
+    },
+    {
+      "nb": "Velg språk",
+      "target": "Vállje giela"
+    },
+    {
+      "nb": "Om Sametinget",
+      "target": "Sámedikki birra"
+    },
+    {
+      "nb": "Finn ansatt",
+      "target": "Gávnna bargi"
+    },
+    {
+      "nb": "Ledige stillinger",
+      "target": "Rabas virggit"
+    },
+    {
+      "nb": "Språk",
+      "target": "Giella"
+    },
+    {
+      "nb": "Barnehage",
+      "target": "Mánáidgárdi"
+    },
+    {
+      "nb": "Grunnopplæring",
+      "target": "Vuođđooahpahus"
+    },
+    {
+      "nb": "Høyere utdanning og forskning",
+      "target": "Alit oahpahus ja dutkan"
+    },
+    {
+      "nb": "Areal, klima og miljø",
+      "target": "Areála, dálkkádat ja biras"
+    },
+    {
+      "nb": "Kulturminne- og bygningsvern",
+      "target": "Kulturmuito- ja vistesuodjalus"
+    },
+    {
+      "nb": "Internasjonalt arbeid",
+      "target": "Riikkaidgaskasaš bargu"
+    },
+    {
+      "nb": "Næring",
+      "target": "Ealáhus"
+    },
+    {
+      "nb": "Barnevern, helse og sosial",
+      "target": "Mánáidsuodjalus, dearvvašvuohta ja sosiála"
+    },
+    {
+      "nb": "Likestilling",
+      "target": "Dásseárvu"
+    },
+    {
+      "nb": "Stipend og tilskudd",
+      "target": "Stipeanddat ja doarjagat"
+    },
+    {
+      "nb": "Sametingets bibliotek",
+      "target": "Sámedikki girjerádju"
+    },
+    {
+      "nb": "Politikk",
+      "target": "Politihkka"
+    },
+    {
+      "nb": "Valg 2025",
+      "target": "Válga 2025"
+    },
+    {
+      "nb": "Sametingsrådet",
+      "target": "Sámediggeráđđi"
+    },
+    {
+      "nb": "Hva skjer?",
+      "target": "Mii dáhpáhuvvá?"
+    },
+    {
+      "nb": "Vis alle",
+      "target": "Čájet buot dáhpáhusaid"
+    },
+    {
+      "nb": "Kontakt oss",
+      "target": "Váldde oktavuođa"
+    },
+    {
+      "nb": "Besøk oss",
+      "target": "Galledeapmi"
+    },
+    {
+      "nb": "Aktuelt",
+      "target": "Ođđasat"
+    },
+    {
+      "nb": "Alle saker",
+      "target": "Buot áššit"
+    },
+    {
+      "nb": "Sametinget arbeider for at samene skal få sikret og utviklet sine språk, sin kultur og sitt samfunnsliv.",
+      "target": "Sámediggi bargá dan ala ahte sápmelaččat galget beassat sihkarastit ja ovddidit gielaideaset, kultuvrraset ja servodateallimiiddiset."
+    },
+    {
+      "nb": "Sannhets- og forsoningskommisjonens rapport",
+      "target": "Duohtavuođa- ja soabahankommišuvnna raporta"
+    },
+    {
+      "nb": "Plenumsmøte",
+      "target": "Dievasčoahkkin"
+    },
+    {
+      "nb": "Sametingsrepresentantene",
+      "target": "Sámedikki áirasat"
+    },
+    {
+      "nb": "Aktive høringer",
+      "target": "Aktiiva gulaskuddamat"
+    },
+    {
+      "nb": "Nett-TV",
+      "target": "Neahtta-TV"
+    },
+    {
+      "nb": "Søk",
+      "target": "Oza"
+    },
+    {
+      "nb": "Meny",
+      "target": "Fállu"
+    },
+    {
+      "nb": "Oppfølging av NOU 2016:18 Hjertespråket",
+      "target": "NAČ 2016:18 Váibmogiella čuovvoleapmi"
+    },
+    {
+      "nb": "Hjertespråket",
+      "target": "Váibmogiella"
+    },
+    {
+      "nb": "Innsyn i Sametingets dokumenter",
+      "target": "Sámedikki ášše- ja dokumeantageahčadeapmi"
+    },
+    {
+      "nb": "Sametinget",
+      "target": "Sámediggi"
+    },
+    {
+      "nb": "Samene",
+      "target": "Sápmelaččat"
+    },
+    {
+      "nb": "Skole",
+      "target": "Skuvla"
+    },
+    {
+      "nb": "Barn",
+      "target": "Mánát"
+    },
+    {
+      "nb": "Unge",
+      "target": "Nuorat"
+    },
+    {
+      "nb": "Helse",
+      "target": "Dearvvašvuohta"
+    },
+    {
+      "nb": "Arbeid",
+      "target": "Bargu"
+    },
+    {
+      "nb": "Miljø",
+      "target": "Biras"
+    },
+    {
+      "nb": "Rettigheter",
+      "target": "Vuoigatvuođat"
+    },
+    {
+      "nb": "Samfunn",
+      "target": "Servodat"
+    },
+    {
+      "nb": "Forskning",
+      "target": "Dutkan"
+    },
+    {
+      "nb": "Utdanning",
+      "target": "Oahpahus"
+    },
+    {
+      "nb": "Bibliotek",
+      "target": "Girjerádju"
+    },
+    {
+      "nb": "Rapport",
+      "target": "Raporta"
+    },
+    {
+      "nb": "Valg",
+      "target": "Válga"
+    },
+    {
+      "nb": "Tilskudd",
+      "target": "Doarjja"
+    },
+    {
+      "nb": "Stipend",
+      "target": "Stipeanda"
+    },
+    {
+      "nb": "Sametinget er et folkevalgt organ for samene i Norge. 39 representanter velges fra 7 valgkretser hvert fjerde år.",
+      "target": "Sámediggi lea Norgga sámiid álbmotválljen ásahus. Juohke njealját jagi válljejuvvojit 39 áirasa čieža válgabiires."
+    },
+    {
+      "nb": "Det første sametingsvalget ble avholdt høsten 1989 og det første offisielle Sameting ble åpnet 9. oktober 1989 i Karasjok av kong Olav V.",
+      "target": "Vuosttaš sámediggeválga lei 1989 čavčča ja vuosttaš almmolaš Sámediggi rahppojuvvui golggotmánu 9. beaivvi 1989:s Kárášjogas gonagas Olav V bokte."
+    },
+    {
+      "nb": "Kontakt Sametinget",
+      "target": "Váldde oktavuođa Samedikkiin"
+    },
+    {
+      "nb": "Besøke parlamentsbygget",
+      "target": "Galledit parlameantaviesu"
+    },
+    {
+      "nb": "Administrasjonen",
+      "target": "Halddahus"
+    },
+    {
+      "nb": "Ledige stillinger og offentlige søkerlister",
+      "target": "Rabas virggit ja almmolaš ohcciidlisttut"
+    },
+    {
+      "nb": "Media",
+      "target": "Preassa"
+    },
+    {
+      "nb": "Reiseregning og honorarkrav til Sametinget",
+      "target": "Mátkerehkegat ja buhtadusgáibadusat Samediggái"
+    },
+    {
+      "nb": "Faktura til Sametinget",
+      "target": "Rehket Samediggái"
+    },
+    {
+      "nb": "Nasjonaldag og nasjonale symboler",
+      "target": "Sámi álbmotbeaivi ja nasuvnnalaš dovdomearkkat"
+    },
+    {
+      "nb": "Sametingets joik",
+      "target": "Sámedikki luohti"
+    },
+    {
+      "nb": "Samarbeidsavtaler",
+      "target": "Ovttasbargošiehtadusat"
+    },
+    {
+      "nb": "Historikk",
+      "target": "Historjá"
+    },
+    {
+      "nb": "Følg oss i sosiale medier",
+      "target": "Čuovo min sosiála mediain"
+    },
+    {
+      "nb": "Kontaktinformasjon",
+      "target": "Gulahallandiehtu"
+    },
+    {
+      "nb": "Personvern og informasjonskapsler",
+      "target": "Persovdnasuodjalus ja cookies"
+    },
+    {
+      "nb": "Hjem",
+      "target": "Ruoktu"
+    },
+    {
+      "nb": "Meld deg inn i Sametingets valgmanntall",
+      "target": "Dieđit iežat Sámedikki válgajienastuslohkui"
+    },
+    {
+      "nb": "Se alt om politikk",
+      "target": "Čájet buot politihka birra"
+    },
+    {
+      "nb": "Plenumsledelsen",
+      "target": "Dievasčoahkkima jođihangoddi"
+    },
+    {
+      "nb": "Brosjyre",
+      "target": "Brosyra"
+    },
+    {
+      "nb": "Joik",
+      "target": "Luohti"
+    },
+    {
+      "nb": "Parlamentsbygg",
+      "target": "Parlameantaviessu"
+    },
+    {
+      "nb": "Valgkrets",
+      "target": "Válgabiire"
+    },
+    {
+      "nb": "Representant",
+      "target": "Áiras"
+    },
+    {
+      "nb": "Folkevalgt",
+      "target": "Álbmotválljen"
+    },
+    {
+      "nb": "Kontor",
+      "target": "Kantuvra"
+    },
+    {
+      "nb": "Nyheter",
+      "target": "Ođđasat"
+    },
+    {
+      "nb": "Strategi",
+      "target": "Strategiija"
+    },
+    {
+      "nb": "Budsjett",
+      "target": "Bušeahtta"
+    },
+    {
+      "nb": "Vedtak",
+      "target": "Mearrádus"
+    },
+    {
+      "nb": "Høring",
+      "target": "Gulaskuddan"
+    },
+    {
+      "nb": "Selvbestemmelse",
+      "target": "Iešmearrideapmi"
+    },
+    {
+      "nb": "Fornorskning",
+      "target": "Dáruiduhttin"
+    },
+    {
+      "nb": "Forsoning",
+      "target": "Soabahan"
+    },
+    {
+      "nb": "Sannhet",
+      "target": "Duohtavuohta"
+    },
+    {
+      "nb": "Urfolk",
+      "target": "Eamiálbmot"
+    },
+    {
+      "nb": "Reindrift",
+      "target": "Boazodoallu"
+    },
+    {
+      "nb": "Duodji",
+      "target": "Duodji"
+    },
+    {
+      "nb": "Samisk språk",
+      "target": "Sámegiella"
+    },
+    {
+      "nb": "Et allsidig kulturliv styrker samisk samhørighet og identitet, og bidrar til levende lokalsamfunn der folk vil bo.",
+      "target": "Máŋggabealat kultureallin nanne sámi gullevašvuođa ja identitehta, ja váikkuha ealli báikegottiide gos olbmot háliidit ássat."
+    },
+    {
+      "nb": "Kulturaktiviteter spiller derfor en viktig rolle i det samiske samfunnet, også for bosettingen.",
+      "target": "Kulturdoaimmain lea dan dihte dehálaš rolla sámi servodagas, maiddái ássamii."
+    },
+    {
+      "nb": "Samisk kulturutøvelse er med på å skape tilhørighet, trivsel og livskvalitet, i tillegg til kulturbaserte arbeidsplasser.",
+      "target": "Sámi kulturbargu maid ovddida gullevašvuođa, loaktima, identitehta ja eallinkvalitehta, ja dasa lassin kulturvuđot bargosajiid."
+    },
+    {
+      "nb": "Søk tilskudd",
+      "target": "Oza doarjaga"
+    },
+    {
+      "nb": "Kunst- og kulturutøvelse",
+      "target": "Dáidda- ja kulturdoaimmaheapmi"
+    },
+    {
+      "nb": "Samisk litteratur og medier",
+      "target": "Sámi girjjálašvuohta ja mediat"
+    },
+    {
+      "nb": "Samisk idrett",
+      "target": "Sámi valáštallan"
+    },
+    {
+      "nb": "Nyttige ressurser",
+      "target": "Ávkkálaš resurssat"
+    },
+    {
+      "nb": "Søk kultur- og idrettsstipend",
+      "target": "Oza kultur- ja valáštallanstipeandda"
+    },
+    {
+      "nb": "Kulturliv",
+      "target": "Kultureallin"
+    },
+    {
+      "nb": "Samhørighet",
+      "target": "Gullevašvuohta"
+    },
+    {
+      "nb": "Tilhørighet",
+      "target": "Gullevašvuohta"
+    },
+    {
+      "nb": "Trivsel",
+      "target": "Loakti"
+    },
+    {
+      "nb": "Livskvalitet",
+      "target": "Eallinkvalitehta"
+    },
+    {
+      "nb": "Arbeidsplasser",
+      "target": "Bargosajit"
+    },
+    {
+      "nb": "Lokalsamfunn",
+      "target": "Báikegottit"
+    },
+    {
+      "nb": "Bosetting",
+      "target": "Ássama"
+    },
+    {
+      "nb": "Litteratur",
+      "target": "Girjjálašvuohta"
+    },
+    {
+      "nb": "Idrett",
+      "target": "Valáštallan"
+    },
+    {
+      "nb": "Tradisjonell kunnskap",
+      "target": "Árbediehtu"
+    },
+    {
+      "nb": "Forside",
+      "target": "Ovdasiidu"
+    },
+    {
+      "nb": "Logg inn i tilskuddsportalen",
+      "target": "Doarjjaportálii sisaloggen"
+    },
+    {
+      "nb": "Alle stipend",
+      "target": "Buot stipeanddat"
+    },
+    {
+      "nb": "Alle tilskuddsordninger",
+      "target": "Buot doarjjaortnegat"
+    },
+    {
+      "nb": "Tilganger i Sametingets tilskuddsportal",
+      "target": "Beassamat Sámedikki doarjjaportálas"
+    },
+    {
+      "nb": "Slik logger du inn i tilskuddsportalen",
+      "target": "Ná logget sisa doarjjaportálii"
+    },
+    {
+      "nb": "Enkeltpersoner",
+      "target": "Eaŋkilolbmot"
+    },
+    {
+      "nb": "Lag bruker med BankID.",
+      "target": "Geavat BankID go ráhkadat geavaheaddji."
+    },
+    {
+      "nb": "Enkeltpersonsforetak",
+      "target": "Ovttaolbmodoaibma"
+    },
+    {
+      "nb": "Daglig leder",
+      "target": "Beaivválaš jođiheaddji"
+    },
+    {
+      "nb": "Styreleder",
+      "target": "Stivrrajođiheaddji"
+    },
+    {
+      "nb": "Forening",
+      "target": "Searvi"
+    },
+    {
+      "nb": "Fylkeskommune",
+      "target": "Fylkkasuohkan"
+    },
+    {
+      "nb": "Universitet",
+      "target": "Universitehta"
+    },
+    {
+      "nb": "Høgskole",
+      "target": "Allaskuvla"
+    },
+    {
+      "nb": "Søknad",
+      "target": "Ohcamat"
+    },
+    {
+      "nb": "Organisasjonsnummer",
+      "target": "Organisašuvdnanummár"
+    },
+    {
+      "nb": "Fullmakt",
+      "target": "Fápmudus"
+    },
+    {
+      "nb": "Innehaver",
+      "target": "Eaiggát"
+    },
+    {
+      "nb": "Tilskuddsordning",
+      "target": "Doarjjaortnet"
+    },
+    {
+      "nb": "Tilskuddsportal",
+      "target": "Doarjjaportála"
+    },
+    {
+      "nb": "Søker",
+      "target": "Ohcci"
+    },
+    {
+      "nb": "Søkerliste",
+      "target": "Ohcciidlisttu"
+    },
+    {
+      "nb": "Innvilget",
+      "target": "Dohkkehuvvon"
+    },
+    {
+      "nb": "Godkjenne",
+      "target": "Dohkkehit"
+    },
+    {
+      "nb": "Registrering",
+      "target": "Registreren"
+    },
+    {
+      "nb": "Bruker",
+      "target": "Geavaheaddji"
+    },
+    {
+      "nb": "Foretak",
+      "target": "Fitnodat"
+    },
+    {
+      "nb": "Institusjon",
+      "target": "Ásahus"
+    },
+    {
+      "nb": "Språket er en viktig kulturbærer og identitetsmarkør.",
+      "target": "Giella lea dehálaš bealli kultuvrii ja identitehtii."
+    },
+    {
+      "nb": "Det er en grunnleggende menneskerettighet å ha mulighet til å bruke sitt eget språk, og som urfolk har samer i tillegg rett til ytterligere beskyttelse av sitt språk.",
+      "target": "Lea vuođđudeaddji olmmošvuoigatvuohta ahte beassá iežas giela geavahit, ja álgoálbmogin lea sápmelaččain dasa lassin vel riekti suddjet gielaset."
+    },
+    {
+      "nb": "Registrering av samiske språk i Folkeregisteret",
+      "target": "Sámegielaid registreren Álbmotregistarii"
+    },
+    {
+      "nb": "Fakta om samiske språk",
+      "target": "Faktadieđut sámegielaid birra"
+    },
+    {
+      "nb": "Forvaltningsområdet for samiske språk",
+      "target": "Sámegielaid hálddašanguovlu"
+    },
+    {
+      "nb": "Språkteknologi",
+      "target": "Giellateknologiija"
+    },
+    {
+      "nb": "Samiske språksentre",
+      "target": "Sámi giellaguovddážat"
+    },
+    {
+      "nb": "Samiske stedsnavn",
+      "target": "Sámi báikenamat"
+    },
+    {
+      "nb": "Samisk språkuke",
+      "target": "Sámi giellavahkku"
+    },
+    {
+      "nb": "Språkpriser",
+      "target": "Giellabálkkašumit"
+    },
+    {
+      "nb": "Menneskerettighet",
+      "target": "Olmmošvuoigatvuohta"
+    },
+    {
+      "nb": "Urfolk",
+      "target": "Álgoálbmot"
+    },
+    {
+      "nb": "Beskyttelse",
+      "target": "Suodjalus"
+    },
+    {
+      "nb": "Kulturbærer",
+      "target": "Kulturguoddi"
+    },
+    {
+      "nb": "Identitetsmarkør",
+      "target": "Identitehtamearka"
+    },
+    {
+      "nb": "Barnehageloven",
+      "target": "Mánáidgárdeláhka"
+    },
+    {
+      "nb": "Sametingets strategiplan for samisk barnehagetilbud 2021-2025",
+      "target": "Sámedikki strategiijat sámi mánáidgárdefálaldaga várás 2021-2025"
+    },
+    {
+      "nb": "Samisk barnehagetilbud",
+      "target": "Sámi mánáidgárdefálaldat"
+    },
+    {
+      "nb": "Informasjonsfilmer om samiske barns rettigheter til samiskspråklig barnehagetilbud",
+      "target": "Diehtojuohkinfilmmat sámi mánáid vuoigatvuođaid birra"
+    },
+    {
+      "nb": "Strategiplan",
+      "target": "Strategiijaplána"
+    },
+    {
+      "nb": "Barnehagetilbud",
+      "target": "Mánáidgárdefálaldat"
+    },
+    {
+      "nb": "Stedsnavn",
+      "target": "Báikenamat"
+    },
+    {
+      "nb": "Språksenter",
+      "target": "Giellaguovddáš"
+    },
+    {
+      "nb": "Språkuke",
+      "target": "Giellavahkku"
+    },
+    {
+      "nb": "Lov",
+      "target": "Láhka"
+    },
+    {
+      "nb": "Film",
+      "target": "Filmma"
+    },
+    {
+      "nb": "Prosjekt",
+      "target": "Prošeakta"
+    },
+    {
+      "nb": "Informasjon",
+      "target": "Diehtojuohkin"
+    },
+    {
+      "nb": "Samarbeidsavtale",
+      "target": "Ovttasbargošiehtadus"
+    },
+    {
+      "nb": "Grenseoverskridende",
+      "target": "Rádjarasttideaddji"
+    },
+    {
+      "nb": "Læremidler",
+      "target": "Oahpponeavvut"
+    },
+    {
+      "nb": "Skolemiljø og skoleutvikling",
+      "target": "Skuvlabiras ja skuvlaovdáneapmi"
+    },
+    {
+      "nb": "Lover og regler for samisk opplæring",
+      "target": "Láhkaásahusat ja lágat sámi oahpahusa ektui"
+    },
+    {
+      "nb": "Grenseoverskridende skolesamarbeid",
+      "target": "Rájáhis skuvlaovttasbargu"
+    },
+    {
+      "nb": "Voksenopplæring",
+      "target": "Rávisolbmuidoahppu"
+    },
+    {
+      "nb": "Opplæringsmelding",
+      "target": "Oahpahusdieđáhus"
+    },
+    {
+      "nb": "Læremiddelutvikling",
+      "target": "Oahpponeavvoráhkadeapmi"
+    },
+    {
+      "nb": "Grunnopplæringsløpet",
+      "target": "Vuođđooahpahusmannolat"
+    },
+    {
+      "nb": "Jordbruk",
+      "target": "Eanadoallu"
+    },
+    {
+      "nb": "Samisk reiseliv",
+      "target": "Sámi mátkeealáhus"
+    },
+    {
+      "nb": "Kreative næringer",
+      "target": "Hutkásealáhus"
+    },
+    {
+      "nb": "Havnæringer",
+      "target": "Mearraealáhusat"
+    },
+    {
+      "nb": "Utmarksnæringer",
+      "target": "Meahcceealáhusat"
+    },
+    {
+      "nb": "Fiskeri",
+      "target": "Guolástus"
+    },
+    {
+      "nb": "Turisme",
+      "target": "Turisma"
+    },
+    {
+      "nb": "Landbruk",
+      "target": "Eanadoallu"
+    },
+    {
+      "nb": "Næringsutvikling",
+      "target": "Ealáhusovdáneapmi"
+    },
+    {
+      "nb": "Innovasjon",
+      "target": "Innovašuvdna"
+    },
+    {
+      "nb": "Elev",
+      "target": "Oahppi"
+    },
+    {
+      "nb": "Lærer",
+      "target": "Oahpaheaddji"
+    },
+    {
+      "nb": "Undervisning",
+      "target": "Oahpahus"
+    },
+    {
+      "nb": "Skoleår",
+      "target": "Skuvlajahki"
+    },
+    {
+      "nb": "Pensum",
+      "target": "Oahppoplána"
+    },
+    {
+      "nb": "Fag",
+      "target": "Fága"
+    },
+    {
+      "nb": "Eksamen",
+      "target": "Eksámen"
+    },
+    {
+      "nb": "Karakter",
+      "target": "Árvosátni"
+    },
+    {
+      "nb": "Kompetanse",
+      "target": "Gelbbolašvuohta"
+    },
+    {
+      "nb": "De mest brukte samiske språkene i Norge i dag er nordsamisk, lulesamisk og sørsamisk. Pitesamisk, umesamisk og skoltesamisk er i en vitaliseringsfase i Norge.",
+      "target": "Eanemusat geavahuvvon sámegielat Norggas dál leat davvi-, julev- ja lullisámegiella. Bihtán- ja ubmesámegiella ja nuortalašgiella leat ealáskahttindásis dál Norggas."
+    },
+    {
+      "nb": "De samiske språkområdene strekker seg tradisjonelt over deler av Norge, Sverige, Finland og Russland. Riksgrensene er trukket på tvers av språkgrensene.",
+      "target": "Sámi giellaguovllut leat árbevirolaččat Norgga, Ruoŧa, Suoma ja Ruošša rájáid rastá. Riikkarájit leat gessojuvvon giellarájiid rastá."
+    },
+    {
+      "nb": "I internasjonal sammenheng er alle samiske språk karakterisert som truede, alvorlig truede eller nesten utdødde språk.",
+      "target": "Riikkaidgaskasaččat meroštit buot sámegielaid uhkiduvvon, duođaid uhkiduvvon dahje measta jávkan giellan."
+    },
+    {
+      "nb": "Samiske språk er beskyttet av blant annet ILO-konvensjon 169, Norges grunnlov, Stedsnavnloven, Samelovens språkregler og gjennom opplæringsloven.",
+      "target": "Sámegielat leat suddjejuvvon earret eará ILO-konvenšuvnna 169, Norgga vuođđolága, Báikenammalága, Sámelága giellanjuolggadusaid ja oahpahuslága bakte."
+    },
+    {
+      "nb": "Internasjonalt er samiske språk beskyttet av blant annet nordisk språkdeklarasjon og European Charter for Regional and Minority Languages.",
+      "target": "Riikkaidgaskasaččat leat sámegielat suddjejuvvon earret eará davviriikkaid giellajulggaštusa ja European Charter for Regional and Minority Languages bakte."
+    },
+    {
+      "nb": "Truet språk",
+      "target": "Uhkiduvvon giella"
+    },
+    {
+      "nb": "Alvorlig truet",
+      "target": "Duođaid uhkiduvvon"
+    },
+    {
+      "nb": "Nesten utdødd",
+      "target": "Measta jávkan"
+    },
+    {
+      "nb": "Vitaliseringsfase",
+      "target": "Ealáskahttindássi"
+    },
+    {
+      "nb": "Språkområde",
+      "target": "Giellaguovlu"
+    },
+    {
+      "nb": "Riksgrense",
+      "target": "Riikkarádji"
+    },
+    {
+      "nb": "Opplæringslov",
+      "target": "Oahpahusláhka"
+    },
+    {
+      "nb": "Stedsnavnloven",
+      "target": "Báikenammaláhka"
+    },
+    {
+      "nb": "I forvaltningsområdet for samiske språk er samisk og norsk likestilte språk. Det betyr at alle har rett til å bli betjent på samisk når de henvender seg til offentlige etater i forvaltningsområdet.",
+      "target": "Sámegielaid hálddašanguovllus leat sámegiella ja dárogiella ovttaárvosaš gielat. Dát mearkkaša ahte buohkain lea riekti oažžut bálvalusaid sámegillii go váldet oktavuođa almmolaš ásahusaiguin mat leat sámegielaid hálddašanguovllu siskkobealde."
+    },
+    {
+      "nb": "Stortinget vedtok 30. mai 2023 endringer av språkreglene i sameloven som innebærer endringer for forvaltningsområdet for samiske språk.",
+      "target": "Stuoradiggi mearridii miessemánu 30. beaivvi 2023 rievdadusaid sámelágas, mat dahket ahte sámelága giellanjuolggadusat leat heivehuvvon hálddašanguovllu iešguđet suohkaniid dárbbuide ja gielladillái."
+    },
+    {
+      "nb": "Språkutviklingskommuner",
+      "target": "Giellaovdánahttinsuohkanat"
+    },
+    {
+      "nb": "Språkvitaliseringskommuner",
+      "target": "Giellaealáskahttinsuohkanat"
+    },
+    {
+      "nb": "Språkstimuleringskommuner",
+      "target": "Giellamovttiidahttinsuohkanat"
+    },
+    {
+      "nb": "Likestilte språk",
+      "target": "Ovttaárvosaš gielat"
+    },
+    {
+      "nb": "Offentlige etater",
+      "target": "Almmolaš ásahusat"
+    },
+    {
+      "nb": "Rett til å bli betjent på samisk",
+      "target": "Riekti oažžut bálvalusaid sámegillii"
+    },
+    {
+      "nb": "Kautokeino",
+      "target": "Guovdageaidnu"
+    },
+    {
+      "nb": "Karasjok",
+      "target": "Kárášjohka"
+    },
+    {
+      "nb": "Tana",
+      "target": "Deatnu"
+    },
+    {
+      "nb": "Nesseby",
+      "target": "Unjárga"
+    },
+    {
+      "nb": "Porsanger",
+      "target": "Porsáŋgu"
+    },
+    {
+      "nb": "Kåfjord",
+      "target": "Gáivuotna"
+    },
+    {
+      "nb": "Lavangen",
+      "target": "Loabák"
+    },
+    {
+      "nb": "Tjeldsund",
+      "target": "Dielddanuorri"
+    },
+    {
+      "nb": "Hamarøy",
+      "target": "Hábmer"
+    },
+    {
+      "nb": "Hattfjelldal",
+      "target": "Aarborte"
+    },
+    {
+      "nb": "Saltdal",
+      "target": "Sálat"
+    },
+    {
+      "nb": "Snåsa",
+      "target": "Snåase"
+    },
+    {
+      "nb": "Røyrvik",
+      "target": "Raarvihke"
+    },
+    {
+      "nb": "Røros",
+      "target": "Rosse"
+    },
+    {
+      "nb": "Sametingsrådet samarbeider med ulike forsknings- og utviklingsaktører for å forbedre det språkteknologiske tilbudet for samiske språk.",
+      "target": "Sámediggeráđđi ovttasbargá iešguđet dutkan- ja ovddidanaktevrraiguin buoridandihte giellateknologalaš fálaldaga sámi gielaid siskkobealde."
+    },
+    {
+      "nb": "Samiske språk trenger språkbrukere, og aktive språkbrukere trenger moderne hjelpemidler for bruk av datamaskin, nett og mobile enheter.",
+      "target": "Sámi gielat dárbbašit giellageavaheddjiid, ja aktiivvalaš giellageavaheaddjit dárbbašit ođđaáigásaš veahkkeneavvuid dihtora, neahta ja mobiila rusttegiid geavaheapmái."
+    },
+    {
+      "nb": "Digitale språkverktøy",
+      "target": "Digitála giellareaiddut"
+    },
+    {
+      "nb": "Nettordbok",
+      "target": "Neahttasátnegirji"
+    },
+    {
+      "nb": "Språkbruker",
+      "target": "Giellageavaheaddji"
+    },
+    {
+      "nb": "Hjelpemiddel",
+      "target": "Veahkkeneavvu"
+    },
+    {
+      "nb": "Forsknings- og utviklingsaktør",
+      "target": "Dutkan- ja ovddidanaktevra"
+    },
+    {
+      "nb": "Med samisk barnehagetilbud menes et tilbud der innholdet i barnehagen bygger på samisk språk og kultur.",
+      "target": "Sámi mánáidgárdefálaldagain oaivvilduvvo fálaldat mas mánáidgárdefálaldat vuođđuduvvo sámi gillii ja kultuvrii."
+    },
+    {
+      "nb": "Barnehagen skal styrke barnas identitet som samer ved å fremme bruken av samisk språk og ved å fremme, bruke og utvikle samisk språk og kultur.",
+      "target": "Mánáidgárdi galgá nannet mánáid identitehta sápmelažžan sámegiela geavaheami bokte, ja ovdánahttima, geavaheami ja ovddideami sámi giela ja kultuvrra bokte."
+    },
+    {
+      "nb": "Barnehagen ledes av samiskspråklige pedagogisk personale.",
+      "target": "Mánáidgárddi jođihit sámegielat pedagogalaš bargit."
+    },
+    {
+      "nb": "Sametinget legger til rette for samisk barnehagetilbud gjennom politikkutvikling og forvaltning av tilskudd til barnehagene.",
+      "target": "Sámediggi láhčá diliid sámi mánáidgárdefálaldaga várás politihkkahábmema ja mánáidgárdedoarjaga hálddašeami bokte."
+    },
+    {
+      "nb": "Barnehager som gir et samisk barnehagetilbud kan søke på de ulike tilskuddsordningene.",
+      "target": "Mánáidgárddit main lea sámi mánáidgárdefálaldat sáhttet ohcat doarjaga sierra doarjjaortnegiin."
+    },
+    {
+      "nb": "Pedagogisk personale",
+      "target": "Pedagogalaš bargit"
+    },
+    {
+      "nb": "Samiskspråklig",
+      "target": "Sámegielat"
+    },
+    {
+      "nb": "Politikkutvikling",
+      "target": "Politihkkahábmen"
+    },
+    {
+      "nb": "Rammeplan",
+      "target": "Rámmaplána"
+    },
+    {
+      "nb": "Veileder",
+      "target": "Bagadallangirjjáš"
+    },
+    {
+      "nb": "Kunnskapsdepartementet",
+      "target": "Máhttodepartemeanta"
+    },
+    {
+      "nb": "Utdanningsdirektoratet",
+      "target": "Oahpahusdirektoráhtta"
+    },
+    {
+      "nb": "Statsforvalteren",
+      "target": "Stáhtahálddašeaddji"
+    },
+    {
+      "nb": "Samarbeidspartner",
+      "target": "Ovttasbargoguoibmi"
+    },
+    {
+      "nb": "Språkopplæring",
+      "target": "Giellaoahpahus"
+    },
+    {
+      "nb": "Avdeling",
+      "target": "Ossodat"
+    },
+    {
+      "nb": "Innhold",
+      "target": "Sisdoallu"
+    },
+    {
+      "nb": "Duodji er en del av samisk kulturarv og er samenes tradisjonelle håndverksferdigheter. Duodji er både kultur og næring, og er også et viktig identitetsskapende element i de samiske samfunnene.",
+      "target": "Duodji gullá sámi kulturárbái ja lea sámiid árbevirolaš giehtaduodjemáhttu. Duodji lea sihke kultuvra ja ealáhus, ja lea maiddái dehálaš identitehtaduddjomii sámi servodagain."
+    },
+    {
+      "nb": "Sametinget har et overordnet mål om å utvikle duodji som en framtidsrettet og attraktiv næring.",
+      "target": "Sámedikkis lea bajimus mihttomearrin ovddidit duoji boahtteáigásaš ja geasuheaddji ealáhussan."
+    },
+    {
+      "nb": "Økt omsetning av egenprodusert duodji for et større marked står sentralt i Sametingets satsing.",
+      "target": "Iežas buvttaduvvon duoji eanet vuovdin stuorát márkaniidda lea Sámedikki áŋgiruššama guovddážis."
+    },
+    {
+      "nb": "Sametingsmelding om duodji som næring",
+      "target": "Sámediggedieđáhus duoji birra ealáhussan"
+    },
+    {
+      "nb": "Næringsavtalen for duodji",
+      "target": "Duoji ealáhusšiehtadus"
+    },
+    {
+      "nb": "Kulturarv",
+      "target": "Kulturárbi"
+    },
+    {
+      "nb": "Håndverksferdigheter",
+      "target": "Giehtaduodjemáhttu"
+    },
+    {
+      "nb": "Næringsavtale",
+      "target": "Ealáhusšiehtadus"
+    },
+    {
+      "nb": "Lønnsomhet",
+      "target": "Gánnáhahttivuohta"
+    },
+    {
+      "nb": "Omsetning",
+      "target": "Vuovdin"
+    },
+    {
+      "nb": "Marked",
+      "target": "Márkan"
+    },
+    {
+      "nb": "Driftstilskudd",
+      "target": "Doaibmadoarjja"
+    },
+    {
+      "nb": "Etablerertilskudd",
+      "target": "Álggahandoarjja"
+    },
+    {
+      "nb": "Lærling",
+      "target": "Oahppi"
+    },
+    {
+      "nb": "Fagbrev",
+      "target": "Fágareive"
+    },
+    {
+      "nb": "Opplæringskontor",
+      "target": "Oahpahuskantuvra"
+    },
+    {
+      "nb": "Framtidsrettet",
+      "target": "Boahtteáigásaš"
+    },
+    {
+      "nb": "Attraktiv",
+      "target": "Geasuheaddji"
+    },
+    {
+      "nb": "Merkevarebygging",
+      "target": "Gálvomearkahuksen"
+    },
+    {
+      "nb": "Salgsfremmende tiltak",
+      "target": "Vuovdinovddideaddji doaimmat"
+    },
+    {
+      "nb": "Kompetansehevende tiltak",
+      "target": "Gealbudandoaibmabijut"
+    },
+    {
+      "nb": "Sametingets arbeid er å oppnå likeverdige helsetjenester for den samiske befolkningen der samisk språk og kultur er utgangspunktet.",
+      "target": "Sámedikki bargu lea oažžut ovttaárvosaš dearvvašvuođabálvalusaid sámi álbmogii ja main sámi giella ja kultuvra lea vuolggasadji."
+    },
+    {
+      "nb": "Dokumentert kunnskap om den samiske befolkningens helse og levekår, og hvilke forhold som påvirker den samiske befolkningens helsetilstand, må ligge til grunn for god helseutvikling for den samiske befolkningen.",
+      "target": "Duođaštuvvon máhttu sámi álbmoga dearvvašvuođa ja eallinlági birra, ja makkár áššit váikkuhit sámi álbmoga dearvvašvuođa dillái, fertejit leat vuođđun buori dearvvašvuođa ovdánahttimii sámi álbmogii."
+    },
+    {
+      "nb": "Kunnskap er viktig både for å identifisere helseutfordringer og for å kunne sette tiltak i gang.",
+      "target": "Máhttu lea dehálaš sihke dasa ahte identifiseret dearvvašvuođahástalusaid ja vai sáhttá doaimmaid bidjat johtui."
+    },
+    {
+      "nb": "Barnevern",
+      "target": "Mánáidsuodjalus"
+    },
+    {
+      "nb": "Sosial",
+      "target": "Sosiála"
+    },
+    {
+      "nb": "Etiske retningslinjer for samisk helseforskning",
+      "target": "Ehtihkalaš njuolggadusat sámi dearvvašvuođadutkama várás"
+    },
+    {
+      "nb": "Lover som omhandler samiske pasienters rettigheter",
+      "target": "Lágat mat válddahit sámi buhcciid vuoigatvuođaid"
+    },
+    {
+      "nb": "Helsetjenester",
+      "target": "Dearvvašvuođabálvalusat"
+    },
+    {
+      "nb": "Likeverdige",
+      "target": "Ovttaárvosaš"
+    },
+    {
+      "nb": "Levekår",
+      "target": "Eallinlágit"
+    },
+    {
+      "nb": "Helsetilstand",
+      "target": "Dearvvašvuođadilli"
+    },
+    {
+      "nb": "Helseutfordring",
+      "target": "Dearvvašvuođahástalus"
+    },
+    {
+      "nb": "Helseutvikling",
+      "target": "Dearvvašvuođa ovdánahttin"
+    },
+    {
+      "nb": "Tiltak",
+      "target": "Doaibmabijut"
+    },
+    {
+      "nb": "Pasient",
+      "target": "Bucci"
+    },
+    {
+      "nb": "Helseforskning",
+      "target": "Dearvvašvuođadutkan"
+    },
+    {
+      "nb": "Befolkning",
+      "target": "Álbmot"
+    },
+    {
+      "nb": "Utgangspunkt",
+      "target": "Vuolggasadji"
+    },
+    {
+      "nb": "Sametinget skal styrke samenes politiske stilling og fremme samenes interesser i Norge, bidra til en likeverdig og rettferdig behandling av det samiske folket og arbeide med å legge forholdene til rette for at samene kan sikre og utvikle sitt språk, sin kultur og sitt samfunnsliv.",
+      "target": "Sámediggi galgá nannet sámiid politihkalaš sajádaga ja ovddidit sámiid beroštumiid Norggas, bargat dan badjelii ahte sámi álbmot gieđahallojuvvo ovttaárvosaččat ja vuoiggalaččat ja bargat dan badjelii ahte sámit sáhttet seailluhit ja ovddidit gielaset, kultuvrraset ja servodagaset."
+    },
+    {
+      "nb": "Sametinget er det samiske folkets folkevalgte parlament i Norge og er et selvstendig folkevalgt organ.",
+      "target": "Sámediggi lea sámi álbmoga álbmotválljen parlameanta Norggas ja lea iehčanas álbmotválljen orgána."
+    },
+    {
+      "nb": "Sametinget er et demokratisk instrument for samisk selvbestemmelse og for utvikling av nyttige og nødvendige tjenester og tilbud til den samiske befolkningen.",
+      "target": "Sámediggi lea demokráhtalaš reaidu sámi iešmearrideami várás ja ávkkálaš ja dárbbašlaš bálvalusaid ja fálaldagaid ovddideami várás sámi álbmogii."
+    },
+    {
+      "nb": "Sametinget er samenes talsrør nasjonalt og internasjonalt.",
+      "target": "Sámediggi lea sámiid jietnaguoddi riikka ja riikkaidgaskasaš dásis."
+    },
+    {
+      "nb": "Sametinget styres etter det parlamentariske prinsipp, hvor det sittende Sametinget baserer sin virksomhet på tillit i plenum.",
+      "target": "Sámediggi jođihuvvo parlamentáralaš prinsihpa vuođul, mas ráđđejeaddji Sámediggeráđi doaibma lea vuođđuduvvon dievasčoahkkima luohttámuššii."
+    },
+    {
+      "nb": "Sametingsvalget holdes hvert fjerde år på samme dagen som stortingsvalget.",
+      "target": "Sámediggeválga dollojuvvo juohke njealját jagi seamma beaivvi go stuorradiggeválga."
+    },
+    {
+      "nb": "Parlament",
+      "target": "Parlameanta"
+    },
+    {
+      "nb": "Politisk stilling",
+      "target": "Politihkalaš sajádat"
+    },
+    {
+      "nb": "Interesser",
+      "target": "Beroštumit"
+    },
+    {
+      "nb": "Talsrør",
+      "target": "Jietnaguoddi"
+    },
+    {
+      "nb": "Demokratisk",
+      "target": "Demokráhtalaš"
+    },
+    {
+      "nb": "Parlamentarisk prinsipp",
+      "target": "Parlamentáralaš prinsihppa"
+    },
+    {
+      "nb": "Plenum",
+      "target": "Dievasčoahkkin"
+    },
+    {
+      "nb": "Tillit",
+      "target": "Luohttámuš"
+    },
+    {
+      "nb": "Sametingsvalg",
+      "target": "Sámediggeválga"
+    },
+    {
+      "nb": "Stortingsvalget",
+      "target": "Stuorradiggeválga"
+    },
+    {
+      "nb": "Mandat",
+      "target": "Mandáhta"
+    },
+    {
+      "nb": "Valgmanntall",
+      "target": "Válgajienastuslohku"
+    },
+    {
+      "nb": "Selvstendig",
+      "target": "Iehčanas"
+    },
+    {
+      "nb": "Rettferdig behandling",
+      "target": "Vuoiggalaš meannudeapmi"
+    },
+    {
+      "nb": "Likeverdig",
+      "target": "Ovttaárvosaš"
+    },
+    {
+      "nb": "Kunsten på Sametinget",
+      "target": "Dáidda Sámedikkis"
+    },
+    {
+      "nb": "Arkitektur",
+      "target": "Arkitektuvra"
+    },
+    {
+      "nb": "Arbeidsorden",
+      "target": "Bargamuš"
+    },
+    {
+      "nb": "6. februar er samenes nasjonaldag. Dagen markeres til minne om det første samiske landsmøtet, som ble holdt i Metodistkirken i Trondheim i 1917.",
+      "target": "Guovvamánu 6. beaivvi lea sámi álbmotbeaivi. Beaivi čalmmustahttojuvvo vuosttaš sámi riikkačoahkkima muitun, mii lei Metodistagirkus Troanddimis 1917:s."
+    },
+    {
+      "nb": "6. februar er offisiell flaggdag i Norge.",
+      "target": "Guovvamánu 6. beaivvi lea virggálaš leavgabeaivi Norggas."
+    },
+    {
+      "nb": "Nasjonaldag",
+      "target": "Álbmotbeaivi"
+    },
+    {
+      "nb": "Flaggdag",
+      "target": "Leavgabeaivi"
+    },
+    {
+      "nb": "Landsmøte",
+      "target": "Riikkačoahkkin"
+    },
+    {
+      "nb": "Nasjonale symboler",
+      "target": "Našuvnnalaš dovdomearkkat"
+    },
+    {
+      "nb": "Sameflagget",
+      "target": "Sámi leavga"
+    },
+    {
+      "nb": "Utdannings- og forskningsbehov",
+      "target": "Oahppo- ja dutkandárbbut"
+    },
+    {
+      "nb": "Implementering av samisk perspektiv i høyere utdanning og forskning",
+      "target": "Sámi perspektiivva implementeren alit ohppui ja dutkamii"
+    },
+    {
+      "nb": "Sametingsmelding om høyere utdanning og forskning",
+      "target": "Sámediggedieđáhus alit oahpu ja dutkama birra"
+    },
+    {
+      "nb": "Søk stipend til høyere utdanning",
+      "target": "Oza stipeanddaid alit ohppui"
+    },
+    {
+      "nb": "Perspektiv",
+      "target": "Perspektiiva"
+    },
+    {
+      "nb": "Implementering",
+      "target": "Implementeren"
+    },
+    {
+      "nb": "Areal",
+      "target": "Areála"
+    },
+    {
+      "nb": "Biologisk mangfold",
+      "target": "Luonddušláddjivuohta"
+    },
+    {
+      "nb": "Naturressurser",
+      "target": "Luondduresurssat"
+    },
+    {
+      "nb": "Verneområdestyrer",
+      "target": "Suodjalanguovlostivrrat"
+    },
+    {
+      "nb": "Friluftsliv",
+      "target": "Meahcásteapmi"
+    },
+    {
+      "nb": "Planlegging i sjøområder",
+      "target": "Plánen mearas"
+    },
+    {
+      "nb": "Sametingets planveileder",
+      "target": "Sámedikki plánaveahkki"
+    },
+    {
+      "nb": "Naturavtalen",
+      "target": "Luonddušiehtadus"
+    },
+    {
+      "nb": "Kraftutbygging",
+      "target": "Sisabahkken"
+    },
+    {
+      "nb": "Framtidige generasjoner",
+      "target": "Boahttevaš buolvvat"
+    },
+    {
+      "nb": "Livsgrunnlag",
+      "target": "Eallinvuođđu"
+    },
+    {
+      "nb": "Naturgrunnlag",
+      "target": "Luonddu- ja resursavuođđu"
+    },
+    {
+      "nb": "Vern",
+      "target": "Suodjalus"
+    },
+    {
+      "nb": "Sjøområde",
+      "target": "Mearraguovlu"
+    },
+    {
+      "nb": "Har du funnet noe som er gammelt?",
+      "target": "Leat go gávdnan maidege mii lea boaris?"
+    },
+    {
+      "nb": "Metallsøking",
+      "target": "Metállaohcan"
+    },
+    {
+      "nb": "Samiske kulturminner og landskap",
+      "target": "Sámi kulturmuittut ja eanadat"
+    },
+    {
+      "nb": "Kulturminne",
+      "target": "Kulturmuitu"
+    },
+    {
+      "nb": "Bygningsvern",
+      "target": "Vistesuodjalus"
+    },
+    {
+      "nb": "Landskap",
+      "target": "Eanadat"
+    },
+    {
+      "nb": "Kulturminneloven",
+      "target": "Kulturmuittolahka"
+    },
+    {
+      "nb": "Fredning",
+      "target": "Ráfáidahttin"
+    },
+    {
+      "nb": "Nordområdene",
+      "target": "Davviguovllut"
+    },
+    {
+      "nb": "Samisk samarbeid",
+      "target": "Sámi ovttasbargu"
+    },
+    {
+      "nb": "Internasjonale konvensjoner og urfolksrettigheter",
+      "target": "Riikkaidgaskasaš konvenšuvnnat ja álgoálbmotvuoigatvuođat"
+    },
+    {
+      "nb": "Sametingsmelding om solidaritet og internasjonalt arbeid",
+      "target": "Sámedikki dieđáhus solidaritehta ja riikkaidgaskasaš barggu birra"
+    },
+    {
+      "nb": "Solidaritet",
+      "target": "Solidaritehta"
+    },
+    {
+      "nb": "Konvensjon",
+      "target": "Konvenšuvdna"
+    },
+    {
+      "nb": "Urfolksrettigheter",
+      "target": "Álgoálbmotvuoigatvuođat"
+    },
+    {
+      "nb": "Arktisk",
+      "target": "Árktalaš"
+    },
+    {
+      "nb": "Nordisk",
+      "target": "Davviriikkalaš"
+    },
+    {
+      "nb": "Grenseoverskridende samarbeid",
+      "target": "Rádjarasttideaddji ovttasbargu"
+    },
+    {
+      "nb": "Sametingets melding om likestilling",
+      "target": "Sábme jállu – Sámedikki dieđáhus dásseárvvu birra"
+    },
+    {
+      "nb": "Kjønnslikestilling",
+      "target": "Sohkabealdásseárvu"
+    },
+    {
+      "nb": "Seksuell orientering, kjønnsidentitet og kjønnsuttrykk",
+      "target": "Seksuála sodju, sohkabealeidentitehta ja sohkabealilbman"
+    },
+    {
+      "nb": "Vold i nære relasjoner",
+      "target": "Veahkaváldi lagaš oktavuođain"
+    },
+    {
+      "nb": "Samisk hatprat",
+      "target": "Sámecielaheapmi"
+    },
+    {
+      "nb": "Kjønn",
+      "target": "Sohkabealli"
+    },
+    {
+      "nb": "Vold",
+      "target": "Veahkaváldi"
+    },
+    {
+      "nb": "Hatprat",
+      "target": "Cielaheapmi"
+    },
+    {
+      "nb": "Orientering",
+      "target": "Sodju"
+    },
+    {
+      "nb": "Diskriminering",
+      "target": "Vealaheapmi"
+    },
+    {
+      "nb": "Likeverd",
+      "target": "Dásseárvu"
+    },
+    {
+      "nb": "Rettferdighet",
+      "target": "Vuoiggalašvuohta"
+    },
+    {
+      "nb": "Sametingspresident",
+      "target": "Sámediggepresideanta"
+    },
+    {
+      "nb": "Komitémøte",
+      "target": "Komiteačoahkkin"
+    },
+    {
+      "nb": "Demokrati",
+      "target": "Demokratiija"
+    },
+    {
+      "nb": "Frihet",
+      "target": "Friddjavuohta"
+    },
+    {
+      "nb": "Fred",
+      "target": "Ráfi"
+    },
+    {
+      "nb": "Elv",
+      "target": "Johka"
+    },
+    {
+      "nb": "Fjell",
+      "target": "Várri"
+    },
+    {
+      "nb": "Statsministerens kontor",
+      "target": "Stáhtaministara kantuvra"
+    },
+    {
+      "nb": "Arbeids- og inkluderingsdepartementet",
+      "target": "Bargo- ja searvadahttindepartemeanta"
+    },
+    {
+      "nb": "Klima- og miljødepartementet",
+      "target": "Dálkkádat- ja birasdepartemeanta"
+    },
+    {
+      "nb": "Helse- og omsorgsdepartementet",
+      "target": "Dearvvašvuođa- ja fuolahusdepartemeanta"
+    },
+    {
+      "nb": "Digitaliserings- og forvaltningsdepartementet",
+      "target": "Digitaliseren- ja hálddašandepartemeanta"
+    },
+    {
+      "nb": "Nærings- og fiskeridepartementet",
+      "target": "Ealáhus- ja guolástusdepartemeanta"
+    },
+    {
+      "nb": "Landbruks- og matdepartementet",
+      "target": "Eanadoallo- ja biebmodepartemeanta"
+    },
+    {
+      "nb": "Energidepartementet",
+      "target": "Energiijadepartemeanta"
+    },
+    {
+      "nb": "Kommunal- og distriktsdepartementet",
+      "target": "Gielda- ja guovlodepartemeanta"
+    },
+    {
+      "nb": "Samferdselsdepartementet",
+      "target": "Johtalusdepartemeanta"
+    },
+    {
+      "nb": "Justis- og beredskapsdepartementet",
+      "target": "Justiisa- ja gearggusvuođadepartemeanta"
+    },
+    {
+      "nb": "Kultur- og likestillingsdepartementet",
+      "target": "Kultur- ja dásseárvodepartemeanta"
+    },
+    {
+      "nb": "Barne- og familiedepartementet",
+      "target": "Mánáid- ja bearašdepartemeanta"
+    },
+    {
+      "nb": "Utenriksdepartementet",
+      "target": "Olgoriikadepartemeanta"
+    },
+    {
+      "nb": "Finansdepartementet",
+      "target": "Ruhtadandepartemeanta"
+    },
+    {
+      "nb": "Forsvarsdepartementet",
+      "target": "Suodjalusdepartemeanta"
+    },
+    {
+      "nb": "Urfolk og minoriteter",
+      "target": "Álgoálbmogat ja unnitlogut"
+    },
+    {
+      "nb": "Arbeidsliv",
+      "target": "Bargu"
+    },
+    {
+      "nb": "Mat, fiske og landbruk",
+      "target": "Biebmu, guolástus ja eanandoallu"
+    },
+    {
+      "nb": "Klima og miljø",
+      "target": "Dálkkádat ja biras"
+    },
+    {
+      "nb": "Likestilling og mangfold",
+      "target": "Dásseárvu ja máŋggabealatvuohta"
+    },
+    {
+      "nb": "Økonomi og budsjett",
+      "target": "Ekonomiija ja bušeahtta"
+    },
+    {
+      "nb": "Transport og kommunikasjon",
+      "target": "Fievrredeapmi ja kommunikašuvdna"
+    },
+    {
+      "nb": "Kultur, idrett og frivillighet",
+      "target": "Kultuvra, valáštallan ja eaktodáhtolaš doaimmat"
+    },
+    {
+      "nb": "Lov og rett",
+      "target": "Láhka ja riekti"
+    },
+    {
+      "nb": "Pensjon, trygd og sosiale tjenester",
+      "target": "Oadju ja sosiála bálvalusat"
+    },
+    {
+      "nb": "Utdanning",
+      "target": "Oahppu"
+    },
+    {
+      "nb": "Innvandring og integrering",
+      "target": "Sisafárren"
+    },
+    {
+      "nb": "Proposisjoner til Stortinget",
+      "target": "Stuorradikki proposišuvnnat"
+    },
+    {
+      "nb": "Meldinger til Stortinget",
+      "target": "Dieđáhusat Stuorradiggái"
+    },
+    {
+      "nb": "Lover og regler",
+      "target": "Lágat ja njuolggadusat"
+    },
+    {
+      "nb": "Nyheter og pressemeldinger",
+      "target": "Ođđasat ja preassadieđáhusat"
+    },
+    {
+      "nb": "Taler og innlegg",
+      "target": "Sártnit ja sáhkavuorut"
+    },
+    {
+      "nb": "Høringer",
+      "target": "Gulaskuddamat"
+    },
+    {
+      "nb": "Rapporter, planer og strategier",
+      "target": "Raporttat, plánat ja strategiijat"
+    },
+    {
+      "nb": "Bestilling av trykte publikasjoner",
+      "target": "Prentosiid diŋgon"
+    },
+    {
+      "nb": "Reindriftsloven",
+      "target": "Boazodoalloláhka"
+    },
+    {
+      "nb": "Regjering",
+      "target": "Ráđđehus"
+    },
+    {
+      "nb": "Regjeringens medlemmer",
+      "target": "Ráđđehusa miellahttut"
+    },
+    {
+      "nb": "Norges styreform",
+      "target": "Norgga stivrejupmi"
+    },
+    {
+      "nb": "Regjeringsskifte",
+      "target": "Ráđđehusa molsun"
+    },
+    {
+      "nb": "Finn dokument",
+      "target": "Oza dokumeantta"
+    },
+    {
+      "nb": "Aktuelt",
+      "target": "Áigeguovdil"
+    },
+    {
+      "nb": "Tema",
+      "target": "Fáttát"
+    },
+    {
+      "nb": "Departement",
+      "target": "Departemeanta"
+    },
+    {
+      "nb": "Minister",
+      "target": "Ministtar"
+    },
+    {
+      "nb": "Statsminister",
+      "target": "Stáhtaministtar"
+    },
+    {
+      "nb": "Mangfold",
+      "target": "Máŋggabealatvuohta"
+    },
+    {
+      "nb": "Frivillighet",
+      "target": "Eaktodáhtolaš doaimmat"
+    },
+    {
+      "nb": "Beredskap",
+      "target": "Gearggusvuohta"
+    },
+    {
+      "nb": "Forsvar",
+      "target": "Suodjalus"
+    },
+    {
+      "nb": "Trygd",
+      "target": "Oadju"
+    }
+  ],
+  "smj": [
+    {
+      "nb": "Begrepslæring",
+      "target": "Buojkuldakoahppam"
+    },
+    {
+      "nb": "En veileder om strukturert begrepslæring for barn og unge med språkvansker",
+      "target": "Bagádus strukturieriduvvam buojkuldakoahppama birra mánájda ja oahppijda"
+    },
+    {
+      "nb": "Språk og begreper – teoretisk bakgrunn",
+      "target": "Buojkuldakoahppam - teorijja vuodo"
+    },
+    {
+      "nb": "Ord og begreper",
+      "target": "Bágo ja buojkuldagá"
+    },
+    {
+      "nb": "Språkutvikling",
+      "target": "Giellaåvddånibme"
+    },
+    {
+      "nb": "Flerspråklighet",
+      "target": "Moattegielakvuohta"
+    },
+    {
+      "nb": "Språkvansker som gjelder utvikling",
+      "target": "Giellaváttesvuoda ma åvddånibmáj guosski"
+    },
+    {
+      "nb": "Læringsprosessen i begrepsopplæring",
+      "target": "Oahppamprosæssa buojkuldakåhpadimen"
+    },
+    {
+      "nb": "Hvorfor er det viktig å arbeide med begreper?",
+      "target": "Manen la ájnas buojkuldagáj barggat?"
+    },
+    {
+      "nb": "Presentasjon og gjennomføring",
+      "target": "Åvddånbuktem ja tjadádibme"
+    },
+    {
+      "nb": "Modell for språkverksted",
+      "target": "Giellasmirjo modælla"
+    },
+    {
+      "nb": "Eksempler på valg av ord",
+      "target": "Buojkulvisá makkir bágojt válljit"
+    },
+    {
+      "nb": "Pedagogenes vurderinger",
+      "target": "Pedagåvgåj árvustallama"
+    },
+    {
+      "nb": "Måle effekt",
+      "target": "Ávkev mihttit"
+    },
+    {
+      "nb": "Skåringskriterier",
+      "target": "Skårimgájbbádusá"
+    },
+    {
+      "nb": "Kartleggingsskjema",
+      "target": "Kárttimsjiebmá"
+    },
+    {
+      "nb": "Litteraturliste",
+      "target": "Gáldo"
+    },
+    {
+      "nb": "Vedlegg",
+      "target": "Tjuovvusa"
+    },
+    {
+      "nb": "Hva er et begrep?",
+      "target": "Mij la sieradus bágo ja buojkuldagá gaskan?"
+    },
+    {
+      "nb": "Hva er språk?",
+      "target": "Mij la giella?"
+    },
+    {
+      "nb": "Språklig bevissthet",
+      "target": "Gielalasj diedulasjvuohta"
+    },
+    {
+      "nb": "Språklige deler",
+      "target": "Gielalasj oase"
+    },
+    {
+      "nb": "Sterke språkmodeller",
+      "target": "Nanos giellamodella"
+    },
+    {
+      "nb": "Begreper i dagligspråket og skolespråket",
+      "target": "Buojkuldagá árggabiejvgielan ja skåvllågielan"
+    },
+    {
+      "nb": "Første fase: Innhold - Hva betyr ordet?",
+      "target": "Vuostasj dásse: Sisadno - Majt merkaj báhko?"
+    },
+    {
+      "nb": "Andre fase: Form",
+      "target": "Nubbe dásse: Hábme"
+    },
+    {
+      "nb": "Tredje fase: Bruk / Oppsummering",
+      "target": "Goalmát dásse: Adno/Tjoahkkájgæsos"
+    },
+    {
+      "nb": "Språk er grunnlaget for all kommunikasjon.",
+      "target": "Giella l divna guládallama vuodo."
+    },
+    {
+      "nb": "Barnehagens rammeplan",
+      "target": "Mánájgárde rámmapládna"
+    },
+    {
+      "nb": "Fagfornyelsens overordnede del",
+      "target": "Fáhkaådåstusá åbbålasj oasse"
+    },
+    {
+      "nb": "Språk er først og fremst menneskets kommunikasjonsmiddel.",
+      "target": "Giella l åvdemusát ulmutjij guládallamnævvo."
+    },
+    {
+      "nb": "Det det jeg hører – det glemmer jeg. Det jeg ser – det husker jeg. Men det jeg gjør – det forstår jeg!",
+      "target": "Dav majt guláv – dav vajálduhtáv. Dav majt vuojnáv – dav mujtáv. Valla dav majt bargav – dav dádjadav!"
+    },
+    {
+      "nb": "Samedigget har støttet prosjektet økonomisk.",
+      "target": "Sámedikke la rudálattjat prosjevtav doarjjum."
+    },
+    {
+      "nb": "Barn lærer ord og begreper på ulike måter.",
+      "target": "Máná oahppi bágojt ja buojkuldagájt iesjguhtik vuogij baktu."
+    },
+    {
+      "nb": "Barns begrepsforståelse utvikles og endres kontinuerlig.",
+      "target": "Mánáj buojkuldakdádjadus åvddån ja rievddá aktelattjat."
+    },
+    {
+      "nb": "Systematisk begrepslæring er viktig.",
+      "target": "Systematihkalasj buojkuldakoahppam la ájnas."
+    },
+    {
+      "nb": "Natur",
+      "target": "Miehttse"
+    },
+    {
+      "nb": "Tre",
+      "target": "Muorra"
+    },
+    {
+      "nb": "Menneske",
+      "target": "Ulmusj"
+    },
+    {
+      "nb": "Bok",
+      "target": "Girjje"
+    },
+    {
+      "nb": "Stor",
+      "target": "Stuorak"
+    },
+    {
+      "nb": "Familie",
+      "target": "Famillja"
+    },
+    {
+      "nb": "Vær",
+      "target": "Dálkke"
+    },
+    {
+      "nb": "Mat",
+      "target": "Bårråm"
+    },
+    {
+      "nb": "Form",
+      "target": "Háme"
+    },
+    {
+      "nb": "Farge",
+      "target": "Bájnno"
+    },
+    {
+      "nb": "Vinter",
+      "target": "Dálvve"
+    },
+    {
+      "nb": "Kjøretøy",
+      "target": "Vuoján"
+    },
+    {
+      "nb": "Sommer",
+      "target": "Giesse"
+    },
+    {
+      "nb": "Vår",
+      "target": "Gidá"
+    },
+    {
+      "nb": "Middag",
+      "target": "Gasskabiejve"
+    },
+    {
+      "nb": "Gammel",
+      "target": "Vuoras"
+    },
+    {
+      "nb": "Venn",
+      "target": "Rádna"
+    },
+    {
+      "nb": "Døgn",
+      "target": "Jánndur"
+    },
+    {
+      "nb": "Kommune",
+      "target": "Suohkan"
+    },
+    {
+      "nb": "Følelse",
+      "target": "Dåbdo"
+    },
+    {
+      "nb": "Klima",
+      "target": "Dálkádahka"
+    },
+    {
+      "nb": "Argument",
+      "target": "Argumænnta"
+    },
+    {
+      "nb": "Samarbeid",
+      "target": "Aktisasjbarggo"
+    },
+    {
+      "nb": "Utvikling",
+      "target": "Åvddånibme"
+    },
+    {
+      "nb": "Kirke",
+      "target": "Girkko"
+    },
+    {
+      "nb": "Maskin",
+      "target": "Masjijnna"
+    },
+    {
+      "nb": "Planet",
+      "target": "Planiehtta"
+    },
+    {
+      "nb": "Grunnlov",
+      "target": "Vuodoláhka"
+    },
+    {
+      "nb": "Kunst",
+      "target": "Dájdda"
+    },
+    {
+      "nb": "Identitet",
+      "target": "Identitiehtta"
+    },
+    {
+      "nb": "Kultur",
+      "target": "Kultuvrra"
+    },
+    {
+      "nb": "Produksjon",
+      "target": "Buvtadibme"
+    },
+    {
+      "nb": "Læreplan",
+      "target": "Oahppopládna"
+    },
+    {
+      "nb": "Kontrakt",
+      "target": "Sjiehtadus"
+    },
+    {
+      "nb": "Beregne",
+      "target": "Riekknit"
+    },
+    {
+      "nb": "Velg språk",
+      "target": "Vállji gielav"
+    },
+    {
+      "nb": "Om Sametinget",
+      "target": "Sámedikke birra"
+    },
+    {
+      "nb": "Finn ansatt",
+      "target": "Gávna barggev"
+    },
+    {
+      "nb": "Ledige stillinger",
+      "target": "Rabás virge"
+    },
+    {
+      "nb": "Språk",
+      "target": "Giella"
+    },
+    {
+      "nb": "Barnehage",
+      "target": "Mánájgárdde"
+    },
+    {
+      "nb": "Grunnopplæring",
+      "target": "Vuodoåhpadus"
+    },
+    {
+      "nb": "Høyere utdanning og forskning",
+      "target": "Alep åhpadus ja dutkam"
+    },
+    {
+      "nb": "Areal, klima og miljø",
+      "target": "Areálla, dálkádahka ja birás"
+    },
+    {
+      "nb": "Kulturminne- og bygningsvern",
+      "target": "Kultuvrramujtto- ja huonajsuodjalus"
+    },
+    {
+      "nb": "Internasjonalt arbeid",
+      "target": "Rijkajgasskasasj barggo"
+    },
+    {
+      "nb": "Næring",
+      "target": "Æládus"
+    },
+    {
+      "nb": "Barnevern, helse og sosial",
+      "target": "Mánájsuodjalus, varresvuohta ja sosiálla"
+    },
+    {
+      "nb": "Likestilling",
+      "target": "Dássádus"
+    },
+    {
+      "nb": "Stipend og tilskudd",
+      "target": "Stipenda ja dårja"
+    },
+    {
+      "nb": "Sametingets bibliotek",
+      "target": "Sámedikke girjjevuorkká"
+    },
+    {
+      "nb": "Politikk",
+      "target": "Politihkka"
+    },
+    {
+      "nb": "Valg 2025",
+      "target": "Válgga 2025"
+    },
+    {
+      "nb": "Sametingsrådet",
+      "target": "Sámedikkeráde"
+    },
+    {
+      "nb": "Hva skjer?",
+      "target": "Mij dáhpáduvvá?"
+    },
+    {
+      "nb": "Vis alle",
+      "target": "Vuoseda gájkka"
+    },
+    {
+      "nb": "Kontakt oss",
+      "target": "Váldde aktijvuodav"
+    },
+    {
+      "nb": "Besøk oss",
+      "target": "Guossidibme"
+    },
+    {
+      "nb": "Aktuelt",
+      "target": "Ådåsa"
+    },
+    {
+      "nb": "Alle saker",
+      "target": "Gájkka ássje"
+    },
+    {
+      "nb": "Sametinget arbeider for at samene skal få sikret og utviklet sine språk, sin kultur og sitt samfunnsliv.",
+      "target": "Sámedigge barggá vaj sáme bessi ietjasa gielajt, kultuvrav ja sebrudakiellemav bisodit ja åvddånahttet."
+    },
+    {
+      "nb": "Sannhets- og forsoningskommisjonens rapport",
+      "target": "Duohtavuoda- ja såbadimkommisjåvnå rappårttå"
+    },
+    {
+      "nb": "Plenumsmøte",
+      "target": "Ållestjåhkanibme"
+    },
+    {
+      "nb": "Sametingsrepresentantene",
+      "target": "Sámedikkeájrrasa"
+    },
+    {
+      "nb": "Aktive høringer",
+      "target": "Aktiiva guládallama"
+    },
+    {
+      "nb": "Nett-TV",
+      "target": "Nett-TV"
+    },
+    {
+      "nb": "Søk",
+      "target": "Åtså"
+    },
+    {
+      "nb": "Meny",
+      "target": "Fállo"
+    },
+    {
+      "nb": "Oppfølging av NOU 2016:18 Hjertespråket",
+      "target": "VAT 2016:18 Vájmo giella tjuovvolibme"
+    },
+    {
+      "nb": "Hjertespråket",
+      "target": "Vájmo giella"
+    },
+    {
+      "nb": "Innsyn i Sametingets dokumenter",
+      "target": "Ássje- ja dokumænntagehtjadibme"
+    },
+    {
+      "nb": "Sametinget",
+      "target": "Sámedigge"
+    },
+    {
+      "nb": "Samene",
+      "target": "Sáme"
+    },
+    {
+      "nb": "Skole",
+      "target": "Skåvllå"
+    },
+    {
+      "nb": "Barn",
+      "target": "Máná"
+    },
+    {
+      "nb": "Unge",
+      "target": "Nuora"
+    },
+    {
+      "nb": "Helse",
+      "target": "Varresvuohta"
+    },
+    {
+      "nb": "Arbeid",
+      "target": "Barggo"
+    },
+    {
+      "nb": "Miljø",
+      "target": "Birás"
+    },
+    {
+      "nb": "Rettigheter",
+      "target": "Rievtesvuoda"
+    },
+    {
+      "nb": "Samfunn",
+      "target": "Sebrudahka"
+    },
+    {
+      "nb": "Forskning",
+      "target": "Dutkam"
+    },
+    {
+      "nb": "Utdanning",
+      "target": "Åhpadus"
+    },
+    {
+      "nb": "Bibliotek",
+      "target": "Girjjevuorkká"
+    },
+    {
+      "nb": "Rapport",
+      "target": "Rappårttå"
+    },
+    {
+      "nb": "Valg",
+      "target": "Válgga"
+    },
+    {
+      "nb": "Tilskudd",
+      "target": "Dårja"
+    },
+    {
+      "nb": "Stipend",
+      "target": "Stipenda"
+    },
+    {
+      "nb": "Sametinget er et folkevalgt organ for samene i Norge. 39 representanter velges fra 7 valgkretser hvert fjerde år.",
+      "target": "Sámedigge le sámij álmmukválljidum orgádna Vuonan. 39 ájrrasa válljiduvvi gietjat válggaguovlos juohkka nælját jage."
+    },
+    {
+      "nb": "Det første sametingsvalget ble avholdt høsten 1989 og det første offisielle Sameting ble åpnet 9. oktober 1989 i Karasjok av kong Olav V.",
+      "target": "Vuostasj sámedikkeválgga tjadáduváj tjavtjan 1989 ja vuostasj almulasj Sámedigge rabáduváj gålgådismáno 9. biejve 1989 Kárásjågån gånågisás Olav V."
+    },
+    {
+      "nb": "Kontakt Sametinget",
+      "target": "Válde aktijvuodav Sámedikkijn"
+    },
+    {
+      "nb": "Besøke parlamentsbygget",
+      "target": "Sámedikkev guossidit"
+    },
+    {
+      "nb": "Administrasjonen",
+      "target": "Haldadus"
+    },
+    {
+      "nb": "Ledige stillinger og offentlige søkerlister",
+      "target": "Rabás virge ja almulasj åhtsijlissta"
+    },
+    {
+      "nb": "Media",
+      "target": "Prassa"
+    },
+    {
+      "nb": "Reiseregning og honorarkrav til Sametinget",
+      "target": "Mannomáksemus ja bálkkágájbbádus Sámediggáj"
+    },
+    {
+      "nb": "Faktura til Sametinget",
+      "target": "Máksemus Sámediggáj"
+    },
+    {
+      "nb": "Nasjonaldag og nasjonale symboler",
+      "target": "Sámij álmmukbiejvve ja nasjavnalasj dábddomerka"
+    },
+    {
+      "nb": "Sametingets joik",
+      "target": "Sámedikke juojgga"
+    },
+    {
+      "nb": "Samarbeidsavtaler",
+      "target": "Aktisasjbarggosjiehtadusa"
+    },
+    {
+      "nb": "Historikk",
+      "target": "Histávrra"
+    },
+    {
+      "nb": "Kontakt oss",
+      "target": "Válde aktijvuodav"
+    },
+    {
+      "nb": "Besøk oss",
+      "target": "Guossida mijáv"
+    },
+    {
+      "nb": "Følg oss i sosiale medier",
+      "target": "Tjuovo mijáv sosiála mediajn"
+    },
+    {
+      "nb": "Kontaktinformasjon",
+      "target": "Guládallamdiehto"
+    },
+    {
+      "nb": "Personvern og informasjonskapsler",
+      "target": "Persåvnnåsuodjalibme ja cookies"
+    },
+    {
+      "nb": "Hjem",
+      "target": "Sijdda"
+    },
+    {
+      "nb": "Meld deg inn i Sametingets valgmanntall",
+      "target": "Tjáleda ietjat Sámedikke jienastuslåhkuj"
+    },
+    {
+      "nb": "Se alt om politikk",
+      "target": "Vuoseda gájkka politihka birra"
+    },
+    {
+      "nb": "Plenumsledelsen",
+      "target": "Ållestjåhkanime jådedibme"
+    },
+    {
+      "nb": "Brosjyre",
+      "target": "Brosjyra"
+    },
+    {
+      "nb": "Joik",
+      "target": "Juojgga"
+    },
+    {
+      "nb": "Parlamentsbygg",
+      "target": "Parlamænntagoahte"
+    },
+    {
+      "nb": "Valgkrets",
+      "target": "Válggaguovllo"
+    },
+    {
+      "nb": "Representant",
+      "target": "Ájrras"
+    },
+    {
+      "nb": "Folkevalgt",
+      "target": "Álmmukválljidum"
+    },
+    {
+      "nb": "Kontor",
+      "target": "Kontåvrå"
+    },
+    {
+      "nb": "Nyheter",
+      "target": "Ådåsa"
+    },
+    {
+      "nb": "Strategi",
+      "target": "Strategijja"
+    },
+    {
+      "nb": "Budsjett",
+      "target": "Busjæhtta"
+    },
+    {
+      "nb": "Vedtak",
+      "target": "Mierredibme"
+    },
+    {
+      "nb": "Høring",
+      "target": "Guládallam"
+    },
+    {
+      "nb": "Selvbestemmelse",
+      "target": "Iesjmierredibme"
+    },
+    {
+      "nb": "Fornorskning",
+      "target": "Dárojduhttem"
+    },
+    {
+      "nb": "Forsoning",
+      "target": "Såbadibme"
+    },
+    {
+      "nb": "Sannhet",
+      "target": "Duohtavuohta"
+    },
+    {
+      "nb": "Urfolk",
+      "target": "Dálonálmmu"
+    },
+    {
+      "nb": "Reindrift",
+      "target": "Båtsojådålåhkå"
+    },
+    {
+      "nb": "Duodji",
+      "target": "Duodje"
+    },
+    {
+      "nb": "Samisk språk",
+      "target": "Sámegiella"
+    },
+    {
+      "nb": "Søk tilskudd",
+      "target": "Åtså dårjav"
+    },
+    {
+      "nb": "Kunst- og kulturutøvelse",
+      "target": "Dájdda- ja kultuvrradåjmadibme"
+    },
+    {
+      "nb": "Samisk litteratur og medier",
+      "target": "Sáme girjálasjvuohta ja media"
+    },
+    {
+      "nb": "Samisk idrett",
+      "target": "Sáme valástallam"
+    },
+    {
+      "nb": "Nyttige ressurser",
+      "target": "Ávkálasj ressursa"
+    },
+    {
+      "nb": "Søk kultur- og idrettsstipend",
+      "target": "Åtså kultuvrra- ja valástallamstipendav"
+    },
+    {
+      "nb": "Forside",
+      "target": "Åvddåbielle"
+    },
+    {
+      "nb": "Tradisjonell kunnskap",
+      "target": "Árbbediehto"
+    },
+    {
+      "nb": "Stedsnavn",
+      "target": "Bájkkenamma"
+    },
+    {
+      "nb": "Språksenter",
+      "target": "Giellaguovdásj"
+    },
+    {
+      "nb": "Språkteknologi",
+      "target": "Giellateknologijja"
+    },
+    {
+      "nb": "Språkuke",
+      "target": "Giellavahkko"
+    },
+    {
+      "nb": "Menneskerettighet",
+      "target": "Ulmutjrievtesvuohta"
+    },
+    {
+      "nb": "Lov",
+      "target": "Láhka"
+    },
+    {
+      "nb": "Film",
+      "target": "Filma"
+    },
+    {
+      "nb": "Prosjekt",
+      "target": "Prosjækta"
+    },
+    {
+      "nb": "Informasjon",
+      "target": "Diedo"
+    },
+    {
+      "nb": "Samarbeidsavtale",
+      "target": "Aktisasjbarggosjiehtadus"
+    },
+    {
+      "nb": "Grenseoverskridende",
+      "target": "Rádjajrasttidibme"
+    },
+    {
+      "nb": "Læremidler",
+      "target": "Oahppamnávvo"
+    },
+    {
+      "nb": "Skolemiljø og skoleutvikling",
+      "target": "Skåvllåbirás ja skåvlååvddånibme"
+    },
+    {
+      "nb": "Lover og regler for samisk opplæring",
+      "target": "Láhkaásadusá ja lága sáme åhpadusá guorrasj"
+    },
+    {
+      "nb": "Grenseoverskridende skolesamarbeid",
+      "target": "Rádjajrasttidibme skåvlåaktisasjbarggo"
+    },
+    {
+      "nb": "Voksenopplæring",
+      "target": "Ållessjattugåhpadus"
+    },
+    {
+      "nb": "Opplæringsmelding",
+      "target": "Åhpadusdiededibme"
+    },
+    {
+      "nb": "Læremiddelutvikling",
+      "target": "Oahppamnávvoåvddånibme"
+    },
+    {
+      "nb": "Grunnopplæringsløpet",
+      "target": "Vuodoåhpadusmannolahka"
+    },
+    {
+      "nb": "Reindrift",
+      "target": "Boatsojæládus"
+    },
+    {
+      "nb": "Jordbruk",
+      "target": "Ednambarggo"
+    },
+    {
+      "nb": "Samisk reiseliv",
+      "target": "Sáme mannoæládus"
+    },
+    {
+      "nb": "Kreative næringer",
+      "target": "Sjuggelisæládus"
+    },
+    {
+      "nb": "Havnæringer",
+      "target": "Merraæládusá"
+    },
+    {
+      "nb": "Utmarksnæringer",
+      "target": "Miehttseæládusá"
+    },
+    {
+      "nb": "Barnehageloven",
+      "target": "Mánájgárddeláhka"
+    },
+    {
+      "nb": "Samisk barnehagetilbud",
+      "target": "Sáme mánájgárddedårja"
+    },
+    {
+      "nb": "Samiske språksentre",
+      "target": "Sáme giellaguovdásja"
+    },
+    {
+      "nb": "Samiske stedsnavn",
+      "target": "Sáme bájkkenamma"
+    },
+    {
+      "nb": "Fakta om samiske språk",
+      "target": "Fákta sámegielajj birra"
+    },
+    {
+      "nb": "Forvaltningsområdet for samiske språk",
+      "target": "Sámegielajj háldadimguovllo"
+    },
+    {
+      "nb": "Fiskeri",
+      "target": "Guolástus"
+    },
+    {
+      "nb": "Turisme",
+      "target": "Turisma"
+    },
+    {
+      "nb": "Landbruk",
+      "target": "Ednambarggo"
+    },
+    {
+      "nb": "Næringsutvikling",
+      "target": "Æládusåvddånibme"
+    },
+    {
+      "nb": "Tilskuddsordning",
+      "target": "Dårjåortnet"
+    },
+    {
+      "nb": "Innovasjon",
+      "target": "Innovasjåvnnå"
+    },
+    {
+      "nb": "Elev",
+      "target": "Oahppe"
+    },
+    {
+      "nb": "Lærer",
+      "target": "Åhpadiddje"
+    },
+    {
+      "nb": "Undervisning",
+      "target": "Åhpadus"
+    },
+    {
+      "nb": "Skoleår",
+      "target": "Skåvlåjahke"
+    },
+    {
+      "nb": "Pensum",
+      "target": "Oahppopládna"
+    },
+    {
+      "nb": "Fag",
+      "target": "Fáhka"
+    },
+    {
+      "nb": "Eksamen",
+      "target": "Eksámen"
+    },
+    {
+      "nb": "Karakter",
+      "target": "Árvusbáhko"
+    },
+    {
+      "nb": "Kompetanse",
+      "target": "Máhttelisvuohta"
+    },
+    {
+      "nb": "Logg inn i tilskuddsportalen",
+      "target": "Sisalogge dårjåportálaj"
+    },
+    {
+      "nb": "Oversikt over stipend",
+      "target": "Stipenda gehtjadibme"
+    },
+    {
+      "nb": "Oversikt over tilskuddsordninger",
+      "target": "Dårjåortne gehtjadibme"
+    },
+    {
+      "nb": "Tilganger i Sametingets tilskuddsportal",
+      "target": "Sámedikke dårjåportála tjadádibme"
+    },
+    {
+      "nb": "Slik logger du inn i tilskuddsportalen",
+      "target": "Nåv sisaloggi dårjåportálaj"
+    },
+    {
+      "nb": "Enkeltpersoner",
+      "target": "Avtakulmutja"
+    },
+    {
+      "nb": "Lag bruker med BankID",
+      "target": "Dagá adnev BankID:jn"
+    },
+    {
+      "nb": "Foretak",
+      "target": "Fitnudahka"
+    },
+    {
+      "nb": "Institusjon",
+      "target": "Ásadus"
+    },
+    {
+      "nb": "Organisasjonsnummer",
+      "target": "Organisasjåvnnånummár"
+    },
+    {
+      "nb": "Søknad",
+      "target": "Åhtsålibme"
+    },
+    {
+      "nb": "Fullmakt",
+      "target": "Fábmodus"
+    },
+    {
+      "nb": "Godkjenne",
+      "target": "Dåhkkidit"
+    },
+    {
+      "nb": "Registrering av samiske språk i Folkeregisteret",
+      "target": "Sámegielajt registrierit álmmukregisstarij"
+    },
+    {
+      "nb": "Sámi Giellagáldu",
+      "target": "Sáme Giellagálldo"
+    },
+    {
+      "nb": "Hjertespråket-utredningen",
+      "target": "Vájmo giella-guoradallam"
+    },
+    {
+      "nb": "Sametingets språkstrategier",
+      "target": "Giellalåpptim. Sámedikke strategijja sámegielajda"
+    },
+    {
+      "nb": "Fakta om samiske språk",
+      "target": "Diedo sámegielajj birra"
+    },
+    {
+      "nb": "Språkpriser",
+      "target": "Giellabálkkásjubme"
+    },
+    {
+      "nb": "Skolemiljø",
+      "target": "Skåvllåbirás"
+    },
+    {
+      "nb": "Kreative næringer",
+      "target": "Sjuggelisæládusá"
+    },
+    {
+      "nb": "Register",
+      "target": "Registtár"
+    },
+    {
+      "nb": "Innlogging",
+      "target": "Sisalogge"
+    },
+    {
+      "nb": "Bruker",
+      "target": "Adne"
+    },
+    {
+      "nb": "Portal",
+      "target": "Portála"
+    },
+    {
+      "nb": "Melding",
+      "target": "Diededibme"
+    },
+    {
+      "nb": "Oversikt",
+      "target": "Gehtjadibme"
+    },
+    {
+      "nb": "Ordning",
+      "target": "Ortnet"
+    },
+    {
+      "nb": "Beskyttelse",
+      "target": "Suodjalibme"
+    },
+    {
+      "nb": "Samisk barnehagetilbud",
+      "target": "Sáme mánájgárddefálaldahka"
+    },
+    {
+      "nb": "Sametingspresident",
+      "target": "Sámediggepresidænnta"
+    },
+    {
+      "nb": "Komitémøte",
+      "target": "Komiteátjåhkanibme"
+    },
+    {
+      "nb": "Demokrati",
+      "target": "Demokratijja"
+    },
+    {
+      "nb": "Frihet",
+      "target": "Friddjavuohta"
+    },
+    {
+      "nb": "Fred",
+      "target": "Ráfe"
+    },
+    {
+      "nb": "Natur",
+      "target": "Luonddo"
+    },
+    {
+      "nb": "Elv",
+      "target": "Jåhkå"
+    },
+    {
+      "nb": "Fjell",
+      "target": "Várre"
+    },
+    {
+      "nb": "god dag",
+      "target": "Buoris uddni"
+    },
+    {
+      "nb": "hei",
+      "target": "Buoris"
+    },
+    {
+      "nb": "god morgen",
+      "target": "Buorre idet"
+    },
+    {
+      "nb": "god kveld",
+      "target": "Buorre iehket"
+    },
+    {
+      "nb": "god natt",
+      "target": "Buorre idja"
+    },
+    {
+      "nb": "hva heter du?",
+      "target": "Mij la duv namma?"
+    },
+    {
+      "nb": "jeg heter",
+      "target": "Muv namma l"
+    },
+    {
+      "nb": "hvem er du?",
+      "target": "Gut la dån?"
+    },
+    {
+      "nb": "jeg er",
+      "target": "Mån lav"
+    },
+    {
+      "nb": "snakker du samisk?",
+      "target": "Sámásta gus?"
+    },
+    {
+      "nb": "ja, jeg snakker samisk",
+      "target": "Sámástav"
+    },
+    {
+      "nb": "nei",
+      "target": "Iv"
+    },
+    {
+      "nb": "jeg kan ikke",
+      "target": "Iv máhte"
+    },
+    {
+      "nb": "jeg kan litt",
+      "target": "Binnáv mátáv"
+    },
+    {
+      "nb": "jeg forstår",
+      "target": "Mån dádjadav"
+    },
+    {
+      "nb": "jeg forstår, men jeg snakker ikke",
+      "target": "Dádjadav, valla iv sámásta"
+    },
+    {
+      "nb": "hvordan har du det?",
+      "target": "Gåktus vieso?"
+    },
+    {
+      "nb": "jeg har det bra",
+      "target": "Buoragit viesov"
+    },
+    {
+      "nb": "jeg har det sånn passe bra",
+      "target": "Biellemudduj viesov"
+    },
+    {
+      "nb": "jeg har det ikke så bra",
+      "target": "Iv nav buoragit vieso"
+    },
+    {
+      "nb": "hvordan går det med deg?",
+      "target": "Gåk dujna manná?"
+    },
+    {
+      "nb": "det går ikke så bra",
+      "target": "Ij nav buoragit maná"
+    },
+    {
+      "nb": "hvor jobber du?",
+      "target": "Gånnå dån barga?"
+    },
+    {
+      "nb": "jeg jobber på skolen",
+      "target": "Mån bargav skåvlån"
+    },
+    {
+      "nb": "jeg jobber i barnehagen",
+      "target": "Mån bargav mánájgárden"
+    },
+    {
+      "nb": "jeg jobber på Árran",
+      "target": "Mån bargav Árranin"
+    },
+    {
+      "nb": "var du på jobb i dag?",
+      "target": "Lidji gus bargon uddni?"
+    },
+    {
+      "nb": "ja, jeg var",
+      "target": "Lidjiv"
+    },
+    {
+      "nb": "nei, jeg var ikke",
+      "target": "Ittjiv"
+    },
+    {
+      "nb": "hva jobber du med?",
+      "target": "Majna barga?"
+    },
+    {
+      "nb": "jeg er en duodjeutøver",
+      "target": "Mån lav duodjár"
+    },
+    {
+      "nb": "jeg er fisker",
+      "target": "Mån lav guollár"
+    },
+    {
+      "nb": "jeg jobber som lærer",
+      "target": "Mån bargav åhpadiddjen"
+    },
+    {
+      "nb": "dress",
+      "target": "dræssa"
+    },
+    {
+      "nb": "vott",
+      "target": "fáhttsa"
+    },
+    {
+      "nb": "lue",
+      "target": "gahper"
+    },
+    {
+      "nb": "kofte",
+      "target": "gáppte"
+    },
+    {
+      "nb": "hanske",
+      "target": "hánsska"
+    },
+    {
+      "nb": "strømpe",
+      "target": "hoasso"
+    },
+    {
+      "nb": "jakke",
+      "target": "jáhkka"
+    },
+    {
+      "nb": "skjorte",
+      "target": "skirtto"
+    },
+    {
+      "nb": "sokk",
+      "target": "såhkkå"
+    },
+    {
+      "nb": "skjerf",
+      "target": "tjiebetlijnne"
+    },
+    {
+      "nb": "genser",
+      "target": "gænssir"
+    },
+    {
+      "nb": "kjole",
+      "target": "tjåvllå"
+    },
+    {
+      "nb": "truse",
+      "target": "truvssa"
+    },
+    {
+      "nb": "skjørt",
+      "target": "vuolppo"
+    },
+    {
+      "nb": "bukser",
+      "target": "båvså"
+    },
+    {
+      "nb": "vintersko",
+      "target": "dálvveskuova"
+    },
+    {
+      "nb": "varme ytterklær",
+      "target": "liegga ålggobiktasa"
+    },
+    {
+      "nb": "skiftetøy",
+      "target": "målsudisá"
+    },
+    {
+      "nb": "regnklær",
+      "target": "rássjobiktasa"
+    },
+    {
+      "nb": "regnbukser",
+      "target": "rássjobåvså"
+    },
+    {
+      "nb": "regnjakke",
+      "target": "rássjojáhkka"
+    },
+    {
+      "nb": "sko",
+      "target": "skuova"
+    },
+    {
+      "nb": "støvler",
+      "target": "stiebila"
+    },
+    {
+      "nb": "uteklær",
+      "target": "ålggobiktasa"
+    },
+    {
+      "nb": "jeg er svett",
+      "target": "Mån lav bivvasin"
+    },
+    {
+      "nb": "trenger du hjelp til å kle på genseren?",
+      "target": "Dárbaha viehkev gænssirav gárvodit?"
+    },
+    {
+      "nb": "kle på deg klærne",
+      "target": "Gárvvuna biktasijt"
+    },
+    {
+      "nb": "kle på deg buksene",
+      "target": "Gárvvuna båvsåjt"
+    },
+    {
+      "nb": "kle på deg genseren",
+      "target": "Gárvvuna gænssirav"
+    },
+    {
+      "nb": "fryser du?",
+      "target": "Goalo gus?"
+    },
+    {
+      "nb": "jeg fryser",
+      "target": "Mån goalov"
+    },
+    {
+      "nb": "jeg er blitt våt",
+      "target": "Mån lav luvvam"
+    },
+    {
+      "nb": "jeg er blitt gjennomvåt",
+      "target": "Mån lav tjadáluvvam"
+    },
+    {
+      "nb": "skal vi skifte bleie?",
+      "target": "Galggin rappsav målssot?"
+    },
+    {
+      "nb": "skift sokker",
+      "target": "Målsuda såhkåjt"
+    },
+    {
+      "nb": "kle av deg buksene",
+      "target": "Nuolada båvsåjt"
+    },
+    {
+      "nb": "kle av deg genseren",
+      "target": "Nuolada gænssirav"
+    },
+    {
+      "nb": "skal jeg hjelpe deg å kle av buksene?",
+      "target": "Galgav viehkedit båvsåjt nuoladit?"
+    },
+    {
+      "nb": "kle på deg kofta",
+      "target": "Tjáŋa gápptáj"
+    },
+    {
+      "nb": "kle på deg støvlene",
+      "target": "Tjáŋa stiebilijda"
+    },
+    {
+      "nb": "kle på deg skoene",
+      "target": "Tjáŋa skuovajda"
+    },
+    {
+      "nb": "agurk",
+      "target": "agurkka"
+    },
+    {
+      "nb": "skje",
+      "target": "bassti"
+    },
+    {
+      "nb": "mat",
+      "target": "biebbmo"
+    },
+    {
+      "nb": "hvitost",
+      "target": "bieddjisvuosstá"
+    },
+    {
+      "nb": "kjøttpålegg",
+      "target": "bierggosuvlle"
+    },
+    {
+      "nb": "fat",
+      "target": "fádi"
+    },
+    {
+      "nb": "gaffel",
+      "target": "gáffil"
+    },
+    {
+      "nb": "bringebær",
+      "target": "gahpermuorjje"
+    },
+    {
+      "nb": "knekkebrød",
+      "target": "garralájbbe"
+    },
+    {
+      "nb": "jordbær",
+      "target": "gieddemuorjje"
+    },
+    {
+      "nb": "glass",
+      "target": "glássa"
+    },
+    {
+      "nb": "kopp",
+      "target": "gåhppå"
+    },
+    {
+      "nb": "frokost",
+      "target": "idedisbiebbmo"
+    },
+    {
+      "nb": "rips",
+      "target": "jierek"
+    },
+    {
+      "nb": "tyttebær",
+      "target": "jågŋå"
+    },
+    {
+      "nb": "smørekniv",
+      "target": "jåŋŋgå"
+    },
+    {
+      "nb": "kaffe",
+      "target": "káffa"
+    },
+    {
+      "nb": "brød",
+      "target": "lájbbe"
+    },
+    {
+      "nb": "multebær",
+      "target": "láttak"
+    },
+    {
+      "nb": "pølse",
+      "target": "márffe"
+    },
+    {
+      "nb": "melk",
+      "target": "mielkke"
+    },
+    {
+      "nb": "bær",
+      "target": "muorjje"
+    },
+    {
+      "nb": "egg",
+      "target": "månne"
+    },
+    {
+      "nb": "kniv",
+      "target": "nijbbe"
+    },
+    {
+      "nb": "pepper",
+      "target": "pihper"
+    },
+    {
+      "nb": "brunost",
+      "target": "russjkisvuosstá"
+    },
+    {
+      "nb": "salt",
+      "target": "sállte"
+    },
+    {
+      "nb": "blåbær",
+      "target": "sarre"
+    },
+    {
+      "nb": "frukt",
+      "target": "sjattos"
+    },
+    {
+      "nb": "brødskive",
+      "target": "sjijvvo"
+    },
+    {
+      "nb": "pålegg",
+      "target": "suvlle"
+    },
+    {
+      "nb": "sukker",
+      "target": "såhkår"
+    },
+    {
+      "nb": "te",
+      "target": "tiedja"
+    },
+    {
+      "nb": "vann",
+      "target": "tjáhtje"
+    },
+    {
+      "nb": "tomat",
+      "target": "tomáhtta"
+    },
+    {
+      "nb": "smør",
+      "target": "vuodja"
+    },
+    {
+      "nb": "ost",
+      "target": "vuosstá"
+    },
+    {
+      "nb": "rydde bordet",
+      "target": "Bievdev rádjat"
+    },
+    {
+      "nb": "spis brødskiva!",
+      "target": "Bårå sjijvov!"
+    },
+    {
+      "nb": "jeg vil spise",
+      "target": "Mån sidáv bårråt"
+    },
+    {
+      "nb": "hva vil du spise?",
+      "target": "Majt sidá bårråt?"
+    },
+    {
+      "nb": "jeg vil spise ei brødskive",
+      "target": "Mån sidáv sjijvov bårråt"
+    },
+    {
+      "nb": "skal jeg sende noe?",
+      "target": "Galgav rádjat majdik?"
+    },
+    {
+      "nb": "takk",
+      "target": "Gijtto"
+    },
+    {
+      "nb": "takk for maten",
+      "target": "Gijtto biebmojs"
+    },
+    {
+      "nb": "jeg er tørst",
+      "target": "Mån lav gåjkkåmin"
+    },
+    {
+      "nb": "jeg vil ha vann",
+      "target": "Mån sidáv tjátjev"
+    },
+    {
+      "nb": "jeg er kaffetørst",
+      "target": "Mån lav káffagåjkon"
+    },
+    {
+      "nb": "send meg kjøttpålegget",
+      "target": "Lagáda munji bierggosuvlev"
+    },
+    {
+      "nb": "send meg smørkniven",
+      "target": "Lagáda munji jåŋgåv"
+    },
+    {
+      "nb": "send meg melka",
+      "target": "Lagáda munji mielkev"
+    },
+    {
+      "nb": "send meg syltetøyet",
+      "target": "Lagáda munji muorjev"
+    },
+    {
+      "nb": "send meg saltet",
+      "target": "Lagáda munji sáltijt"
+    },
+    {
+      "nb": "send meg brødskiva",
+      "target": "Lagáda munji sjijvov"
+    },
+    {
+      "nb": "send meg smøret",
+      "target": "Lagáda munji vuojav"
+    },
+    {
+      "nb": "vaske opp",
+      "target": "Lihtijt bassat"
+    },
+    {
+      "nb": "jeg er sulten",
+      "target": "Mån lav nælggomin"
+    },
+    {
+      "nb": "er du sulten?",
+      "target": "Le gus nælggomin?"
+    },
+    {
+      "nb": "er dere sultne?",
+      "target": "Lehpit gus nælggomin?"
+    },
+    {
+      "nb": "vil du ha noe?",
+      "target": "Sidá gus majdik?"
+    },
+    {
+      "nb": "tann",
+      "target": "bádne"
+    },
+    {
+      "nb": "rumpe",
+      "target": "bahta"
+    },
+    {
+      "nb": "tommel",
+      "target": "bielggetjuvdde"
+    },
+    {
+      "nb": "øre",
+      "target": "biellje"
+    },
+    {
+      "nb": "hæl",
+      "target": "boasske"
+    },
+    {
+      "nb": "kne",
+      "target": "buolvva"
+    },
+    {
+      "nb": "hake",
+      "target": "gájbbe"
+    },
+    {
+      "nb": "panne",
+      "target": "gállo"
+    },
+    {
+      "nb": "albue",
+      "target": "garŋŋel"
+    },
+    {
+      "nb": "hand",
+      "target": "giehta"
+    },
+    {
+      "nb": "rygg",
+      "target": "hárddo"
+    },
+    {
+      "nb": "fot",
+      "target": "juolgge"
+    },
+    {
+      "nb": "tå",
+      "target": "juolggetjuvdde"
+    },
+    {
+      "nb": "bryst",
+      "target": "mielgga"
+    },
+    {
+      "nb": "ansikt",
+      "target": "muohto"
+    },
+    {
+      "nb": "kinn",
+      "target": "nierra"
+    },
+    {
+      "nb": "nakke",
+      "target": "nisske"
+    },
+    {
+      "nb": "munn",
+      "target": "njálmme"
+    },
+    {
+      "nb": "leppe",
+      "target": "njálmmerabdda"
+    },
+    {
+      "nb": "nese",
+      "target": "njunnje"
+    },
+    {
+      "nb": "tunge",
+      "target": "njuovtjav"
+    },
+    {
+      "nb": "hode",
+      "target": "oajvve"
+    },
+    {
+      "nb": "skulder",
+      "target": "oalgge"
+    },
+    {
+      "nb": "øye",
+      "target": "tjalmme"
+    },
+    {
+      "nb": "lår",
+      "target": "tjibbe"
+    },
+    {
+      "nb": "hals",
+      "target": "tjiebet"
+    },
+    {
+      "nb": "mage",
+      "target": "tjoajvve"
+    },
+    {
+      "nb": "finger",
+      "target": "tjuvdde"
+    },
+    {
+      "nb": "hår",
+      "target": "vuoppta"
+    },
+    {
+      "nb": "tannverk",
+      "target": "Bádnevárkke"
+    },
+    {
+      "nb": "øreverk",
+      "target": "Bielljenávludahka"
+    },
+    {
+      "nb": "her er ørene",
+      "target": "Dála li bielje"
+    },
+    {
+      "nb": "der er ørene",
+      "target": "Dale li bielje"
+    },
+    {
+      "nb": "å høre",
+      "target": "Gullat"
+    },
+    {
+      "nb": "jeg hører deg",
+      "target": "Guláv duv"
+    },
+    {
+      "nb": "jeg lytter på musikk",
+      "target": "Musihkav gulldalav"
+    },
+    {
+      "nb": "åpne munnen",
+      "target": "Rabá njálmev"
+    },
+    {
+      "nb": "ikke bit!",
+      "target": "Ale gáske!"
+    },
+    {
+      "nb": "riste på hodet",
+      "target": "Oajvev risstit"
+    },
+    {
+      "nb": "jeg har hodepine",
+      "target": "Mujna l oajvveluottudagáv"
+    },
+    {
+      "nb": "å se",
+      "target": "Vuojnnet"
+    },
+    {
+      "nb": "jeg ser deg",
+      "target": "Vuojnáv duv"
+    },
+    {
+      "nb": "jeg ser ikke",
+      "target": "Iv vuojne"
+    },
+    {
+      "nb": "lukk øynene",
+      "target": "Tsápptsi tjalmijt"
+    },
+    {
+      "nb": "åpne øynene",
+      "target": "Rabá tjalmijt"
+    },
+    {
+      "nb": "magepine",
+      "target": "Tjoajvvegåddulahka"
+    },
+    {
+      "nb": "jeg har vondt i magen",
+      "target": "Mån lav tjåjvijs"
+    },
+    {
+      "nb": "det kiler i magen",
+      "target": "Tjagárt tjoajven"
+    },
+    {
+      "nb": "han/hun har langt hår",
+      "target": "Sujna li guhka vuopta"
+    },
+    {
+      "nb": "tannkrem",
+      "target": "bádnegella"
+    },
+    {
+      "nb": "tannbørste",
+      "target": "bádneskuorun"
+    },
+    {
+      "nb": "vaskefat",
+      "target": "basádimgárre"
+    },
+    {
+      "nb": "toalett",
+      "target": "hivsik"
+    },
+    {
+      "nb": "toalettpapir",
+      "target": "hivsikpáhper"
+    },
+    {
+      "nb": "kran",
+      "target": "krádna"
+    },
+    {
+      "nb": "badekar",
+      "target": "lávggomgárre"
+    },
+    {
+      "nb": "kam",
+      "target": "rájdam"
+    },
+    {
+      "nb": "bleie",
+      "target": "rappsa"
+    },
+    {
+      "nb": "håndkle",
+      "target": "sigárdahka"
+    },
+    {
+      "nb": "sjampo",
+      "target": "sjámmpu"
+    },
+    {
+      "nb": "dusj",
+      "target": "sjoavoj"
+    },
+    {
+      "nb": "såpe",
+      "target": "soahppo"
+    },
+    {
+      "nb": "speil",
+      "target": "spiedjil"
+    },
+    {
+      "nb": "hårbørste",
+      "target": "vuopptabørssta"
+    },
+    {
+      "nb": "pusse tennene",
+      "target": "Bánijt skuorrot"
+    },
+    {
+      "nb": "puss tennene!",
+      "target": "Skuoro bánijt!"
+    },
+    {
+      "nb": "har du pusset tennene?",
+      "target": "Le bánijt skuorrum?"
+    },
+    {
+      "nb": "vask hendene!",
+      "target": "Basáda giedajt!"
+    },
+    {
+      "nb": "har du vasket hendene?",
+      "target": "Le giedajt basádam?"
+    },
+    {
+      "nb": "skal du på toalettet?",
+      "target": "Galga hivsigij?"
+    },
+    {
+      "nb": "gå på toalettet!",
+      "target": "Maná hivsigij!"
+    },
+    {
+      "nb": "gå å tiss!",
+      "target": "Maná gåttjåda!"
+    },
+    {
+      "nb": "er du ferdig?",
+      "target": "Le gus gærggam?"
+    },
+    {
+      "nb": "har du tørket rompa?",
+      "target": "Le badáv sihkkum?"
+    },
+    {
+      "nb": "tørk rompa!",
+      "target": "Sihko badáv!"
+    },
+    {
+      "nb": "kjemme håret",
+      "target": "Vuoptajt rájddat"
+    },
+    {
+      "nb": "steke",
+      "target": "Basset"
+    },
+    {
+      "nb": "vispe",
+      "target": "Fierrot"
+    },
+    {
+      "nb": "visp deigen",
+      "target": "Dájgev fierrot"
+    },
+    {
+      "nb": "elte deigen",
+      "target": "Dájgev nuoddit"
+    },
+    {
+      "nb": "smelte smør",
+      "target": "Vuojav suddadit"
+    },
+    {
+      "nb": "kjøl ned melken",
+      "target": "Mielkev tjoasskodit"
+    },
+    {
+      "nb": "kjøleskap",
+      "target": "galmmaskáhppa"
+    },
+    {
+      "nb": "skål",
+      "target": "gárre"
+    },
+    {
+      "nb": "øse",
+      "target": "gukse"
+    },
+    {
+      "nb": "kaffekjele",
+      "target": "káffagiebbme"
+    },
+    {
+      "nb": "kasserolle",
+      "target": "rujtta"
+    },
+    {
+      "nb": "stekepanne",
+      "target": "stádtjo"
+    },
+    {
+      "nb": "komfyr",
+      "target": "vuodná"
+    },
+    {
+      "nb": "fløte",
+      "target": "gahpa"
+    },
+    {
+      "nb": "korn",
+      "target": "gårnne"
+    },
+    {
+      "nb": "mel",
+      "target": "jáfo"
+    },
+    {
+      "nb": "gjær",
+      "target": "jæssta"
+    },
+    {
+      "nb": "grovmel",
+      "target": "ruobes jáfo"
+    },
+    {
+      "nb": "olje",
+      "target": "ulljo"
+    },
+    {
+      "nb": "bord",
+      "target": "bievdde"
+    },
+    {
+      "nb": "forkle",
+      "target": "firkal"
+    },
+    {
+      "nb": "januar",
+      "target": "Ådåjakmánno"
+    },
+    {
+      "nb": "februar",
+      "target": "Guovvamánno"
+    },
+    {
+      "nb": "mars",
+      "target": "Sjnjuktjamánno"
+    },
+    {
+      "nb": "april",
+      "target": "Vuoratjismánno"
+    },
+    {
+      "nb": "mai",
+      "target": "Moarmesmánno"
+    },
+    {
+      "nb": "juni",
+      "target": "Biehtsemánno"
+    },
+    {
+      "nb": "juli",
+      "target": "Sjnjilltjamánno"
+    },
+    {
+      "nb": "august",
+      "target": "Bårggemánno"
+    },
+    {
+      "nb": "september",
+      "target": "Ragátmánno"
+    },
+    {
+      "nb": "oktober",
+      "target": "Gålgådismánno"
+    },
+    {
+      "nb": "november",
+      "target": "Basádismánno"
+    },
+    {
+      "nb": "desember",
+      "target": "Javllamánno"
+    },
+    {
+      "nb": "mandag",
+      "target": "Mánnodahka"
+    },
+    {
+      "nb": "tirsdag",
+      "target": "Dijstahka"
+    },
+    {
+      "nb": "onsdag",
+      "target": "Gasskabiejvve"
+    },
+    {
+      "nb": "torsdag",
+      "target": "Duorastahka"
+    },
+    {
+      "nb": "fredag",
+      "target": "Bierjjedahka"
+    },
+    {
+      "nb": "lørdag",
+      "target": "Lávvodahka"
+    },
+    {
+      "nb": "søndag",
+      "target": "Sådnåbiejvve"
+    },
+    {
+      "nb": "hvilken dag er det i dag?",
+      "target": "Makkár biejvve l uddni?"
+    },
+    {
+      "nb": "i dag er det mandag",
+      "target": "Uddni le mánnodahka"
+    },
+    {
+      "nb": "i går var det søndag",
+      "target": "Iektu lij sådnåbiejvve"
+    },
+    {
+      "nb": "i morgen er det tirsdag",
+      "target": "Idet le dijstahka"
+    },
+    {
+      "nb": "når kommer du?",
+      "target": "Goassa boáda?"
+    },
+    {
+      "nb": "jeg kommer på lørdag",
+      "target": "Boadáv lávvodagá"
+    },
+    {
+      "nb": "hvilken måned er det nå?",
+      "target": "Makkár mánno l dálla?"
+    },
+    {
+      "nb": "nå er det januar",
+      "target": "Dálla l ådåjakmánno"
+    },
+    {
+      "nb": "hvilken årstid er det nå?",
+      "target": "Makkár jáhpe le dálla?"
+    },
+    {
+      "nb": "nå er det sommer",
+      "target": "Dálla l giesse"
+    },
+    {
+      "nb": "vårvinter",
+      "target": "Gidádálvve"
+    },
+    {
+      "nb": "vårsommer",
+      "target": "Gidágiesse"
+    },
+    {
+      "nb": "høstsommer",
+      "target": "Tjaktjagiesse"
+    },
+    {
+      "nb": "høst",
+      "target": "Tjaktja"
+    },
+    {
+      "nb": "høstvinter",
+      "target": "Tjaktjadálvve"
+    },
+    {
+      "nb": "blå",
+      "target": "Alek"
+    },
+    {
+      "nb": "gul",
+      "target": "Visská"
+    },
+    {
+      "nb": "rød",
+      "target": "Ruoppsat"
+    },
+    {
+      "nb": "grønn",
+      "target": "Ruodná"
+    },
+    {
+      "nb": "svart",
+      "target": "Tjáhppat"
+    },
+    {
+      "nb": "hvit",
+      "target": "Bedjat"
+    },
+    {
+      "nb": "brun",
+      "target": "Russjkat"
+    },
+    {
+      "nb": "grå",
+      "target": "Rávvat"
+    },
+    {
+      "nb": "fiolett",
+      "target": "Sáhppat"
+    },
+    {
+      "nb": "lilla",
+      "target": "Tjuovggissáhppat"
+    },
+    {
+      "nb": "rosa",
+      "target": "Guovggisruoppsat"
+    },
+    {
+      "nb": "oransje",
+      "target": "Oránnsja"
+    },
+    {
+      "nb": "en",
+      "target": "akta"
+    },
+    {
+      "nb": "to",
+      "target": "guokta"
+    },
+    {
+      "nb": "tre",
+      "target": "gålmmå"
+    },
+    {
+      "nb": "fire",
+      "target": "niellja"
+    },
+    {
+      "nb": "fem",
+      "target": "vihtta"
+    },
+    {
+      "nb": "seks",
+      "target": "guhtta"
+    },
+    {
+      "nb": "sju",
+      "target": "gietjav"
+    },
+    {
+      "nb": "åtte",
+      "target": "gáktse"
+    },
+    {
+      "nb": "ni",
+      "target": "aktse"
+    },
+    {
+      "nb": "ti",
+      "target": "lågev"
+    },
+    {
+      "nb": "elleve",
+      "target": "lågenanakta"
+    },
+    {
+      "nb": "tjue",
+      "target": "guoktalåhke"
+    },
+    {
+      "nb": "tretti",
+      "target": "gålmmålåhke"
+    },
+    {
+      "nb": "førti",
+      "target": "nielljalåhke"
+    },
+    {
+      "nb": "femti",
+      "target": "vihttalåhke"
+    },
+    {
+      "nb": "seksti",
+      "target": "guhttalåhke"
+    },
+    {
+      "nb": "sytti",
+      "target": "gietjavlåhke"
+    },
+    {
+      "nb": "åtti",
+      "target": "gáktsalåhke"
+    },
+    {
+      "nb": "nitti",
+      "target": "aktselåhke"
+    },
+    {
+      "nb": "hundre",
+      "target": "tjuohte"
+    },
+    {
+      "nb": "tusen",
+      "target": "tuvsán"
+    },
+    {
+      "nb": "Drag",
+      "target": "Ájluokta"
+    },
+    {
+      "nb": "Hamarøy",
+      "target": "Hábmer"
+    },
+    {
+      "nb": "Tysfjord",
+      "target": "Divtasvuodna"
+    },
+    {
+      "nb": "Kjøpsvik",
+      "target": "Gásluokta"
+    },
+    {
+      "nb": "Narvik",
+      "target": "Nárvijkka"
+    },
+    {
+      "nb": "Bodø",
+      "target": "Bådåddjo"
+    },
+    {
+      "nb": "Tromsø",
+      "target": "Tråmsså"
+    },
+    {
+      "nb": "Oslo",
+      "target": "Oslo"
+    },
+    {
+      "nb": "Bergen",
+      "target": "Biergun"
+    },
+    {
+      "nb": "Trondheim",
+      "target": "Roandem"
+    },
+    {
+      "nb": "Stockholm",
+      "target": "Stockhoalmma"
+    },
+    {
+      "nb": "Ballangen",
+      "target": "Bálák"
+    },
+    {
+      "nb": "Steigen",
+      "target": "Stájggo"
+    },
+    {
+      "nb": "Fauske",
+      "target": "Fuossko"
+    },
+    {
+      "nb": "Evenes",
+      "target": "Evenássje"
+    },
+    {
+      "nb": "Mo i Rana",
+      "target": "Måvvå"
+    },
+    {
+      "nb": "Musken",
+      "target": "Måsske"
+    },
+    {
+      "nb": "Innhavet",
+      "target": "Strávnjunnje"
+    },
+    {
+      "nb": "Norge",
+      "target": "Vuonarijkka"
+    },
+    {
+      "nb": "Luleå",
+      "target": "Julev"
+    },
+    {
+      "nb": "Jokkmokk",
+      "target": "Jåhkåmåhkke"
+    },
+    {
+      "nb": "Gällivare",
+      "target": "Giellevárre"
+    },
+    {
+      "nb": "Kiruna",
+      "target": "Gierun"
+    },
+    {
+      "nb": "Svolvær",
+      "target": "Spålavuolle"
+    },
+    {
+      "nb": "hvor er du?",
+      "target": "Gånnå la?"
+    },
+    {
+      "nb": "jeg er på Drag",
+      "target": "Mån lav Ájluovtan"
+    },
+    {
+      "nb": "hvor bor du?",
+      "target": "Gånnå åro?"
+    },
+    {
+      "nb": "jeg bor på Drag",
+      "target": "Mån årov Ájluovtan"
+    },
+    {
+      "nb": "hvor skal du?",
+      "target": "Gåsi galga?"
+    },
+    {
+      "nb": "jeg skal til Drag",
+      "target": "Galgav Ájluoktaj"
+    },
+    {
+      "nb": "hvor kommer du fra?",
+      "target": "Gåsstå boadá?"
+    },
+    {
+      "nb": "jeg kommer fra Drag",
+      "target": "Mån boadáv Ájluovtas"
+    },
+    {
+      "nb": "hvor er du ifra?",
+      "target": "Gåsstå la dån?"
+    },
+    {
+      "nb": "jeg er ifra Drag",
+      "target": "Mån lav Ájluovtas"
+    },
+    {
+      "nb": "å tenke",
+      "target": "Ájádallat"
+    },
+    {
+      "nb": "glede",
+      "target": "Ávvo"
+    },
+    {
+      "nb": "jeg er glad",
+      "target": "Mån lav ávon"
+    },
+    {
+      "nb": "jeg er frustrert",
+      "target": "Mån lav asjmen"
+    },
+    {
+      "nb": "jeg er redd",
+      "target": "Mån lav balon"
+    },
+    {
+      "nb": "hva er du redd for?",
+      "target": "Masta balá?"
+    },
+    {
+      "nb": "trist",
+      "target": "Gávkas"
+    },
+    {
+      "nb": "det er trist å høre",
+      "target": "Gávkas gullat"
+    },
+    {
+      "nb": "triste nyheter",
+      "target": "Gávkas ådåsa"
+    },
+    {
+      "nb": "spennende",
+      "target": "Geldulasj"
+    },
+    {
+      "nb": "så spennende!",
+      "target": "Man geldulasj!"
+    },
+    {
+      "nb": "er du lei deg?",
+      "target": "Le gus håjen?"
+    },
+    {
+      "nb": "godt humør",
+      "target": "Buorre miella"
+    },
+    {
+      "nb": "dårlig humør",
+      "target": "Nievres miella"
+    },
+    {
+      "nb": "barnet er i godt humør",
+      "target": "Mánná l buorre mielan"
+    },
+    {
+      "nb": "barna har et godt humør",
+      "target": "Mánájn li buorre miella"
+    },
+    {
+      "nb": "å smile",
+      "target": "Måjudit"
+    },
+    {
+      "nb": "ikke le!",
+      "target": "I då måjuda!"
+    },
+    {
+      "nb": "slutt å krangle",
+      "target": "Hiejttit rijddalimes"
+    },
+    {
+      "nb": "hun er sint",
+      "target": "Sån la suhton"
+    },
+    {
+      "nb": "er du sint?",
+      "target": "Le gus suhton?"
+    },
+    {
+      "nb": "jeg blir sint om du gjør det",
+      "target": "Suttav jus dåv dagá"
+    },
+    {
+      "nb": "jeg synes synd på ham",
+      "target": "Suttalusjav sunji"
+    },
+    {
+      "nb": "artig",
+      "target": "Suohtas"
+    },
+    {
+      "nb": "hvor artig!",
+      "target": "Man suohtas!"
+    },
+    {
+      "nb": "det er artig",
+      "target": "Suohtas le"
+    },
+    {
+      "nb": "det var artig",
+      "target": "Suohtas lij"
+    },
+    {
+      "nb": "så heldig du er!",
+      "target": "Man vuorbálasj le!"
+    },
+    {
+      "nb": "bra",
+      "target": "Buorre"
+    },
+    {
+      "nb": "stor",
+      "target": "Stuorra"
+    },
+    {
+      "nb": "liten",
+      "target": "Unna"
+    },
+    {
+      "nb": "lang",
+      "target": "Guhka"
+    },
+    {
+      "nb": "kort",
+      "target": "Oanega"
+    },
+    {
+      "nb": "i går var jeg i Narvik",
+      "target": "Iektu lidjiv Nárvijka"
+    },
+    {
+      "nb": "her på Drag",
+      "target": "Dáhppe Ájluovtan"
+    },
+    {
+      "nb": "der borte i Kjøpsvik",
+      "target": "Duoppe Gásluovtan"
+    },
+    {
+      "nb": "jeg er en Tysfjæring",
+      "target": "Mån lav Divtasvuonak"
+    },
+    {
+      "nb": "vi er Tysfjæringer",
+      "target": "Mij lip Divtasvuonaga"
+    },
+    {
+      "nb": "Samisk kommune",
+      "target": "Sáme suohkan"
+    },
+    {
+      "nb": "Samiskspråklige tjenester",
+      "target": "Sámegielak dievnastusá"
+    },
+    {
+      "nb": "Lulesamisk språk",
+      "target": "Julevsámegiella"
+    },
+    {
+      "nb": "Lulesamiske språkressurser",
+      "target": "Giellaresursa"
+    },
+    {
+      "nb": "Forvaltningsområdet for samiske språk",
+      "target": "Sámegielaj háldadimguovllo"
+    },
+    {
+      "nb": "Samenes nasjonaldag",
+      "target": "Sámij álmmukbiejvve"
+    },
+    {
+      "nb": "Aktivitetsplaner",
+      "target": "Doajmmaplána"
+    },
+    {
+      "nb": "Årsmeldinger og øvrige rapporter",
+      "target": "Jahkediedádusá ja ietjá rapporta"
+    },
+    {
+      "nb": "Informasjon og nyttige lenker",
+      "target": "Diedo ja ávkálasj sválldasa"
+    },
+    {
+      "nb": "Samisk helsekontakt",
+      "target": "Varresvuoda guládalle"
+    },
+    {
+      "nb": "Samisk rådgiver",
+      "target": "Sáme rádevadde"
+    },
+    {
+      "nb": "Kompetanse, kurs og utdanning i lulesamisk",
+      "target": "Máhtudahka, kurssa ja åhpadus julevsámegielan"
+    },
+    {
+      "nb": "Hamarøy kommune",
+      "target": "Hábmera suohkan"
+    },
+    {
+      "nb": "samiske språk",
+      "target": "sámegielah"
+    },
+    {
+      "nb": "forvaltningsområde",
+      "target": "háldadimguovllo"
+    },
+    {
+      "nb": "språkvitaliseringskommune",
+      "target": "giellaælládahttemsuohkan"
+    },
+    {
+      "nb": "lulesamisk",
+      "target": "julevsámegiella"
+    },
+    {
+      "nb": "urfolk",
+      "target": "álggoálmmujo"
+    },
+    {
+      "nb": "rettigheter",
+      "target": "riektá"
+    },
+    {
+      "nb": "helse- og omsorgstjenester",
+      "target": "varresvuoda- ja huksodievnastusá"
+    },
+    {
+      "nb": "sameloven",
+      "target": "sámeláhka"
+    },
+    {
+      "nb": "språkloven",
+      "target": "giellaláhka"
+    },
+    {
+      "nb": "opplæring",
+      "target": "åhpadus"
+    },
+    {
+      "nb": "samfunnsliv",
+      "target": "sebrudakiellem"
+    },
+    {
+      "nb": "språkressurser",
+      "target": "giellaresursa"
+    },
+    {
+      "nb": "Sørfold",
+      "target": "Luoktavuodna"
+    },
+    {
+      "nb": "Norrbotten",
+      "target": "Nuorttabåddne"
+    },
+    {
+      "nb": "Árran lulesamisk senter",
+      "target": "Árran julevsáme guovdásj"
+    },
+    {
+      "nb": "samisk helseteam",
+      "target": "sáme varresvuodajoavkko"
+    },
+    {
+      "nb": "tolketjeneste",
+      "target": "dulkadievnastus"
+    },
+    {
+      "nb": "servicetorg",
+      "target": "dievnastusdårrjo"
+    },
+    {
+      "nb": "Dine rettigheter etter sameloven",
+      "target": "Duv riektá sámelága milta"
+    },
+    {
+      "nb": "Samisk opplæring i barnehage og skole",
+      "target": "Sáme åhpadus mánájgárdden ja skåvlån"
+    },
+    {
+      "nb": "Samisk språk i helse- og omsorgstjenester",
+      "target": "Sámegiella varresvuoda- ja huksodievnastusájn"
+    },
+    {
+      "nb": "Skjema, forskrifter og kunngjøringer på samisk",
+      "target": "Sjiehtadusá, njuolggadusá ja diededimá sámegillij"
+    },
+    {
+      "nb": "samisk nasjonalsang",
+      "target": "sámij álmmuklávlá"
+    },
+    {
+      "nb": "det samiske flagget",
+      "target": "sáme leavga"
+    },
+    {
+      "nb": "lavvo",
+      "target": "lávvo"
+    },
+    {
+      "nb": "samisk kofte",
+      "target": "gáppte"
+    },
+    {
+      "nb": "flagging",
+      "target": "leavgastahttim"
+    },
+    {
+      "nb": "fellesskap",
+      "target": "aktisasjvuohta"
+    },
+    {
+      "nb": "nasjonaldag",
+      "target": "álmmukbiejvve"
+    },
+    {
+      "nb": "folk",
+      "target": "álbmot"
+    },
+    {
+      "nb": "kultur og samfunnsliv",
+      "target": "kultuvrra ja sebrudakiellem"
+    },
+    {
+      "nb": "kunnskap",
+      "target": "máhtudahka"
+    },
+    {
+      "nb": "historie",
+      "target": "histåvrrå"
+    },
+    {
+      "nb": "samisk landsmøte",
+      "target": "sáme rijkkatjåhkanibme"
+    },
+    {
+      "nb": "forvaltning",
+      "target": "háldadibme"
+    },
+    {
+      "nb": "innbyggere",
+      "target": "ásse"
+    },
+    {
+      "nb": "tjenester",
+      "target": "dievnastusá"
+    },
+    {
+      "nb": "lovverk",
+      "target": "láhkaásadus"
+    },
+    {
+      "nb": "regelverk",
+      "target": "njuolggadusá"
+    },
+    {
+      "nb": "ildsted",
+      "target": "árran"
+    },
+    {
+      "nb": "nyttige lenker",
+      "target": "ávkálasj sválldasa"
+    },
+    {
+      "nb": "status",
+      "target": "dille"
+    },
+    {
+      "nb": "rapport",
+      "target": "rapportta"
+    },
+    {
+      "nb": "årsmelding",
+      "target": "jahkediedádus"
+    },
+    {
+      "nb": "aktivitetsplan",
+      "target": "doajmmaplána"
+    },
+    {
+      "nb": "helsekontakt",
+      "target": "varresvuoda guládalle"
+    }
+  ],
+  "sma": [
+    {
+      "nb": "Begrepslæring",
+      "target": "Daajehtselïereme"
+    },
+    {
+      "nb": "En veileder om strukturert begrepslæring for barn og unge med språkvansker",
+      "target": "Bïhkedimmie strukturelle daajehtselïeremen bïjre maanide jïh learoehkidie"
+    },
+    {
+      "nb": "Språk og begreper – teoretisk bakgrunn",
+      "target": "Daajehtselïereme - teorijevåarome"
+    },
+    {
+      "nb": "Ord og begreper",
+      "target": "Baakoeh jïh daajehtsh"
+    },
+    {
+      "nb": "Språkutvikling",
+      "target": "Gïeleevtiedimmie"
+    },
+    {
+      "nb": "Flerspråklighet",
+      "target": "Gelliengïelevoete"
+    },
+    {
+      "nb": "Språkvansker som gjelder utvikling",
+      "target": "Gïelesturreme evtiedimmesne"
+    },
+    {
+      "nb": "Læringsprosessen i begrepsopplæring",
+      "target": "Lïeremeprosessh daajehtselïerehtimmesne"
+    },
+    {
+      "nb": "Hvorfor er det viktig å arbeide med begreper?",
+      "target": "Mannasinie nuhteligs daajehtsigujmie barkedh?"
+    },
+    {
+      "nb": "Presentasjon og gjennomføring",
+      "target": "Åehpiedehteme jïh tjïrrehtimmie"
+    },
+    {
+      "nb": "Modell for språkverksted",
+      "target": "Gïelevierhkiesijjien maalle"
+    },
+    {
+      "nb": "Eksempler på valg av ord",
+      "target": "Vuesiehtimmieh veeljemasse baakojste"
+    },
+    {
+      "nb": "Pedagogenes vurderinger",
+      "target": "Pedagogi vuarjasjimmieh"
+    },
+    {
+      "nb": "Måle effekt",
+      "target": "Nåhtoeaarvoem mööledh"
+    },
+    {
+      "nb": "Skåringskriterier",
+      "target": "Skååremekriterijumh"
+    },
+    {
+      "nb": "Kartleggingsskjema",
+      "target": "Goerehtallemegoere"
+    },
+    {
+      "nb": "Litteraturliste",
+      "target": "Gaaltijelæstoe"
+    },
+    {
+      "nb": "Vedlegg",
+      "target": "Lissietjaalege"
+    },
+    {
+      "nb": "Hva er et begrep?",
+      "target": "Mij joekehtse baakoej jïh daajehtsi gaskem?"
+    },
+    {
+      "nb": "Hva er språk?",
+      "target": "Mij gïele?"
+    },
+    {
+      "nb": "Språklig bevissthet",
+      "target": "Gïeleldh voerkesvoete"
+    },
+    {
+      "nb": "Språklige deler",
+      "target": "Gïeleldh bielieh"
+    },
+    {
+      "nb": "Sterke språkmodeller",
+      "target": "Nænnoes gïelemaallh"
+    },
+    {
+      "nb": "Begreper i dagligspråket og skolespråket",
+      "target": "Daajehtsh aarkebiejjien- jïh skuvlegïelesne"
+    },
+    {
+      "nb": "Første fase: Innhold - Hva betyr ordet?",
+      "target": "Voestes njieptjie: Sisvege – Mij baakoen mïele?"
+    },
+    {
+      "nb": "Andre fase: Form",
+      "target": "Mubpie njieptjie: Hammoe"
+    },
+    {
+      "nb": "Tredje fase: Bruk / Oppsummering",
+      "target": "Gåalmede njieptjie: Åtnoe/Ektiedimmie"
+    },
+    {
+      "nb": "Språk er grunnlaget for all kommunikasjon.",
+      "target": "Gïele lea våarome abpe gaskesadtemasse."
+    },
+    {
+      "nb": "Barnehagens rammeplan",
+      "target": "Maanagïerten mieriesoejkesje"
+    },
+    {
+      "nb": "Fagfornyelsens overordnede del",
+      "target": "Faageorrestimmie sïejhme bielie"
+    },
+    {
+      "nb": "Språk er først og fremst menneskets kommunikasjonsmiddel.",
+      "target": "Gïele lea uvtemes almetjen gaskesadtemedïrrege."
+    },
+    {
+      "nb": "Det det jeg hører – det glemmer jeg. Det jeg ser – det husker jeg. Men det jeg gjør – det forstår jeg!",
+      "target": "Maam govlem – åajeldem. Maam vuajnam – måjhtam. Men maam darjoem – måjhtam!"
+    },
+    {
+      "nb": "Samedigget har støttet prosjektet økonomisk.",
+      "target": "Saemiedigkie lea beetnehvierhtiejgujmie dåårjeme."
+    },
+    {
+      "nb": "Barn lærer ord og begreper på ulike måter.",
+      "target": "Maanah baakoeh jïh daajehtsh joekehtslaakan lierieh."
+    },
+    {
+      "nb": "Barns begrepsforståelse utvikles og endres kontinuerlig.",
+      "target": "Maanan daajehtsegoerkese evtiesåvva jïh jorkese, jïh ahkedh jorkese."
+    },
+    {
+      "nb": "Systematisk begrepslæring er viktig.",
+      "target": "Daajehtselïereme lea vihkele."
+    },
+    {
+      "nb": "Natur",
+      "target": "Eatneme"
+    },
+    {
+      "nb": "Tre",
+      "target": "Moere"
+    },
+    {
+      "nb": "Menneske",
+      "target": "Almetje"
+    },
+    {
+      "nb": "Bok",
+      "target": "Gærja"
+    },
+    {
+      "nb": "Stor",
+      "target": "Stoerre"
+    },
+    {
+      "nb": "Familie",
+      "target": "Fuelhkie"
+    },
+    {
+      "nb": "Vær",
+      "target": "Vearelde"
+    },
+    {
+      "nb": "Mat",
+      "target": "Beapmoeh"
+    },
+    {
+      "nb": "Form",
+      "target": "Hammoe"
+    },
+    {
+      "nb": "Farge",
+      "target": "Klaerie"
+    },
+    {
+      "nb": "Vinter",
+      "target": "Daelvie"
+    },
+    {
+      "nb": "Kjøretøy",
+      "target": "Girtie"
+    },
+    {
+      "nb": "Sommer",
+      "target": "Gïjre"
+    },
+    {
+      "nb": "Vår",
+      "target": "Gïjre"
+    },
+    {
+      "nb": "Middag",
+      "target": "Gaskebiejjie"
+    },
+    {
+      "nb": "Gammel",
+      "target": "Båeries"
+    },
+    {
+      "nb": "Venn",
+      "target": "Voelph"
+    },
+    {
+      "nb": "Døgn",
+      "target": "Dygne"
+    },
+    {
+      "nb": "Kommune",
+      "target": "Tjïelte"
+    },
+    {
+      "nb": "Følelse",
+      "target": "Domtese"
+    },
+    {
+      "nb": "Klima",
+      "target": "Klijma"
+    },
+    {
+      "nb": "Argument",
+      "target": "Argumeente"
+    },
+    {
+      "nb": "Samarbeid",
+      "target": "Laavenjostoe"
+    },
+    {
+      "nb": "Utvikling",
+      "target": "Evtiedimmie"
+    },
+    {
+      "nb": "Kirke",
+      "target": "Gærhkoe"
+    },
+    {
+      "nb": "Maskin",
+      "target": "Masjijne"
+    },
+    {
+      "nb": "Planet",
+      "target": "Planeete"
+    },
+    {
+      "nb": "Grunnlov",
+      "target": "Maadthlaake"
+    },
+    {
+      "nb": "Kunst",
+      "target": "Daajje"
+    },
+    {
+      "nb": "Identitet",
+      "target": "Identiteete"
+    },
+    {
+      "nb": "Kultur",
+      "target": "Kultuvre"
+    },
+    {
+      "nb": "Produksjon",
+      "target": "Buvtadimmie"
+    },
+    {
+      "nb": "Læreplan",
+      "target": "Learoesoejkesje"
+    },
+    {
+      "nb": "Kontrakt",
+      "target": "Latjkoe"
+    },
+    {
+      "nb": "Beregne",
+      "target": "Ryöknedh"
+    },
+    {
+      "nb": "Velg språk",
+      "target": "Veeljh gïelem"
+    },
+    {
+      "nb": "Om Sametinget",
+      "target": "Saemiedigkien bïjre"
+    },
+    {
+      "nb": "Finn ansatt",
+      "target": "Gaavnh barkijem"
+    },
+    {
+      "nb": "Ledige stillinger",
+      "target": "Gåaroes barkoeh"
+    },
+    {
+      "nb": "Språk",
+      "target": "Gïele"
+    },
+    {
+      "nb": "Barnehage",
+      "target": "Maanagïerte"
+    },
+    {
+      "nb": "Grunnopplæring",
+      "target": "Lïerehtimmie"
+    },
+    {
+      "nb": "Høyere utdanning og forskning",
+      "target": "Jollebe ööhpehtimmie jïh dotkeme"
+    },
+    {
+      "nb": "Areal, klima og miljø",
+      "target": "Areaale, daalhkadahke jïh byjrese"
+    },
+    {
+      "nb": "Kulturminne- og bygningsvern",
+      "target": "Kultuvremojhtese- jïh gåetievaarjelimmie"
+    },
+    {
+      "nb": "Internasjonalt arbeid",
+      "target": "Gaskenasjonaale barkoe"
+    },
+    {
+      "nb": "Næring",
+      "target": "Jieleme"
+    },
+    {
+      "nb": "Barnevern, helse og sosial",
+      "target": "Maanavaarjelimmie, healsoe jïh sosijaale"
+    },
+    {
+      "nb": "Likestilling",
+      "target": "Mïrrestalleme"
+    },
+    {
+      "nb": "Stipend og tilskudd",
+      "target": "Stipende jïh dåarjoe"
+    },
+    {
+      "nb": "Sametingets bibliotek",
+      "target": "Saemiedigkien gærjagåetie"
+    },
+    {
+      "nb": "Politikk",
+      "target": "Politihke"
+    },
+    {
+      "nb": "Valg 2025",
+      "target": "Veeljeme 2025"
+    },
+    {
+      "nb": "Sametingsrådet",
+      "target": "Saemiedigkieraerie"
+    },
+    {
+      "nb": "Hva skjer?",
+      "target": "Mij heannede?"
+    },
+    {
+      "nb": "Vis alle",
+      "target": "Vuesehth gaajhkem"
+    },
+    {
+      "nb": "Kontakt oss",
+      "target": "Gaskesadth mijjem"
+    },
+    {
+      "nb": "Besøk oss",
+      "target": "Bööredh"
+    },
+    {
+      "nb": "Aktuelt",
+      "target": "Aamhtesh"
+    },
+    {
+      "nb": "Alle saker",
+      "target": "Gaajhkh aamhtesh"
+    },
+    {
+      "nb": "Sametinget arbeider for at samene skal få sikret og utviklet sine språk, sin kultur og sitt samfunnsliv.",
+      "target": "Saemiedigkie barka ihke saemieh edtjieh åadtjodh sijjen gïelh, sijjen kultuvrem jïh sijjen seabradahkejieledem gorredidh jïh evtiedidh."
+    },
+    {
+      "nb": "Sannhets- og forsoningskommisjonens rapport",
+      "target": "Saetniesvoete- jïh liktemekommisjovnen reektehtse"
+    },
+    {
+      "nb": "Plenumsmøte",
+      "target": "Stoerretjåanghkoe"
+    },
+    {
+      "nb": "Sametingsrepresentantene",
+      "target": "Saemiedigkietjirkijh"
+    },
+    {
+      "nb": "Aktive høringer",
+      "target": "Aktijve saagastallemh"
+    },
+    {
+      "nb": "Nett-TV",
+      "target": "Needte-TV"
+    },
+    {
+      "nb": "Søk",
+      "target": "Ohtsh"
+    },
+    {
+      "nb": "Meny",
+      "target": "Menyje"
+    },
+    {
+      "nb": "Oppfølging av NOU 2016:18 Hjertespråket",
+      "target": "Guhkiebasse barkoe NBS:ste 2016:18 Vaajmoegïele"
+    },
+    {
+      "nb": "Hjertespråket",
+      "target": "Vaajmoegïele"
+    },
+    {
+      "nb": "Innsyn i Sametingets dokumenter",
+      "target": "Luhpie Saemiedigkien tjaatsegidie"
+    },
+    {
+      "nb": "Sametinget",
+      "target": "Saemiedigkie"
+    },
+    {
+      "nb": "Samene",
+      "target": "Saemieh"
+    },
+    {
+      "nb": "Skole",
+      "target": "Skuvle"
+    },
+    {
+      "nb": "Barn",
+      "target": "Maanah"
+    },
+    {
+      "nb": "Unge",
+      "target": "Noerh"
+    },
+    {
+      "nb": "Helse",
+      "target": "Healsoe"
+    },
+    {
+      "nb": "Arbeid",
+      "target": "Barkoe"
+    },
+    {
+      "nb": "Miljø",
+      "target": "Byjrese"
+    },
+    {
+      "nb": "Rettigheter",
+      "target": "Reaktah"
+    },
+    {
+      "nb": "Samfunn",
+      "target": "Seabradahke"
+    },
+    {
+      "nb": "Forskning",
+      "target": "Dotkeme"
+    },
+    {
+      "nb": "Utdanning",
+      "target": "Ööhpehtimmie"
+    },
+    {
+      "nb": "Bibliotek",
+      "target": "Gærjagåetie"
+    },
+    {
+      "nb": "Rapport",
+      "target": "Reektehtse"
+    },
+    {
+      "nb": "Valg",
+      "target": "Veeljeme"
+    },
+    {
+      "nb": "Tilskudd",
+      "target": "Dåarjoe"
+    },
+    {
+      "nb": "Stipend",
+      "target": "Stipende"
+    },
+    {
+      "nb": "Sametinget er et folkevalgt organ for samene i Norge. 39 representanter velges fra 7 valgkretser hvert fjerde år.",
+      "target": "Saemiedigkie lea Nöörjen saemiej almetjeveeljeme årgaane. 39 tjirkijh veeljesuvvieh 7 veeljemegievlijste fïerhten njealjeden jaepien."
+    },
+    {
+      "nb": "Det første sametingsvalget ble avholdt høsten 1989 og det første offisielle Sameting ble åpnet 9. oktober 1989 i Karasjok av kong Olav V.",
+      "target": "Voestes saemiedigkieveeljeme hööltesovvi tjaktjen 1989 jïh gånka Olav V dam voestes byögkeles Saemiedigkiem rïhpesti."
+    },
+    {
+      "nb": "Kontakt Sametinget",
+      "target": "Gaskesadth Saemiedigkiem"
+    },
+    {
+      "nb": "Besøke parlamentsbygget",
+      "target": "Saemiedigkiem vaaksjodh"
+    },
+    {
+      "nb": "Administrasjonen",
+      "target": "Reereme"
+    },
+    {
+      "nb": "Ledige stillinger og offentlige søkerlister",
+      "target": "Gåaroes barkoeh jïh byögkeles ohtsijelastoeh"
+    },
+    {
+      "nb": "Media",
+      "target": "Preesse"
+    },
+    {
+      "nb": "Reiseregning og honorarkrav til Sametinget",
+      "target": "Vuelkemereeknege jïh honoraarekrievenassh Saemiedagkan"
+    },
+    {
+      "nb": "Faktura til Sametinget",
+      "target": "Reeknegh Saemiedagkan"
+    },
+    {
+      "nb": "Nasjonaldag og nasjonale symboler",
+      "target": "Aalmegebiejjie jïh nasjonaale symbovlh"
+    },
+    {
+      "nb": "Sametingets joik",
+      "target": "Saemiedigkien vuelie"
+    },
+    {
+      "nb": "Samarbeidsavtaler",
+      "target": "Laavenjostoelatjkoeh"
+    },
+    {
+      "nb": "Historikk",
+      "target": "Historihke"
+    },
+    {
+      "nb": "Besøk oss",
+      "target": "Vaaksjomh"
+    },
+    {
+      "nb": "Følg oss i sosiale medier",
+      "target": "Dåeriedidie mijjem sosijaale medijinie"
+    },
+    {
+      "nb": "Kontaktinformasjon",
+      "target": "Gaskesadtemebïevnesh"
+    },
+    {
+      "nb": "Personvern og informasjonskapsler",
+      "target": "Persovnevaarjelimmie jïh cookies"
+    },
+    {
+      "nb": "Hjem",
+      "target": "Hïejme"
+    },
+    {
+      "nb": "Meld deg inn i Sametingets valgmanntall",
+      "target": "Tjaelieh jïjtjemdh saemien veeljemelåhkose"
+    },
+    {
+      "nb": "Se alt om politikk",
+      "target": "Vuesehth gaajhkem politihken bïjre"
+    },
+    {
+      "nb": "Plenumsledelsen",
+      "target": "Stoerretjåangkoeståvroe"
+    },
+    {
+      "nb": "Brosjyre",
+      "target": "Brosjyvre"
+    },
+    {
+      "nb": "Joik",
+      "target": "Vuelie"
+    },
+    {
+      "nb": "Parlamentsbygg",
+      "target": "Parlamæntegåetie"
+    },
+    {
+      "nb": "Valgkrets",
+      "target": "Veeljemegievlie"
+    },
+    {
+      "nb": "Representant",
+      "target": "Tjirkije"
+    },
+    {
+      "nb": "Folkevalgt",
+      "target": "Almetjeveeljeme"
+    },
+    {
+      "nb": "Kontor",
+      "target": "Kontovre"
+    },
+    {
+      "nb": "Nyheter",
+      "target": "Aamhtesh"
+    },
+    {
+      "nb": "Strategi",
+      "target": "Strategije"
+    },
+    {
+      "nb": "Budsjett",
+      "target": "Budsjette"
+    },
+    {
+      "nb": "Vedtak",
+      "target": "Nænnoestimmie"
+    },
+    {
+      "nb": "Høring",
+      "target": "Saagastallemh"
+    },
+    {
+      "nb": "Selvbestemmelse",
+      "target": "Jïjtjemieriedimmie"
+    },
+    {
+      "nb": "Fornorskning",
+      "target": "Nöörjendehteme"
+    },
+    {
+      "nb": "Forsoning",
+      "target": "Likteme"
+    },
+    {
+      "nb": "Sannhet",
+      "target": "Saetniesvoete"
+    },
+    {
+      "nb": "Urfolk",
+      "target": "Åålmegebyjrese"
+    },
+    {
+      "nb": "Reindrift",
+      "target": "Bovtsegïetedimmie"
+    },
+    {
+      "nb": "Duodji",
+      "target": "Duedtie"
+    },
+    {
+      "nb": "Samisk språk",
+      "target": "Saemien gïele"
+    },
+    {
+      "nb": "Søk tilskudd",
+      "target": "Ohtsh dåarjoem"
+    },
+    {
+      "nb": "Kunst- og kulturutøvelse",
+      "target": "Tjeahpoe jïh kultuvre"
+    },
+    {
+      "nb": "Samisk litteratur og medier",
+      "target": "Saemien lidteratuvre jïh medijh"
+    },
+    {
+      "nb": "Samisk idrett",
+      "target": "Saemien gaarsjelimmie"
+    },
+    {
+      "nb": "Nyttige ressurser",
+      "target": "Nuhteligs vierhtieh"
+    },
+    {
+      "nb": "Søk kultur- og idrettsstipend",
+      "target": "Ohtsh kultuvre-jïh gaarsjelimmiestipendem"
+    },
+    {
+      "nb": "Forside",
+      "target": "Åvtesæjrose"
+    },
+    {
+      "nb": "Samisk kulturutøvelse er med på å skape tilhørighet, trivsel og livskvalitet, i tillegg til kulturbaserte arbeidsplasser.",
+      "target": "Saemien kultuvre govlesovvemem, tråjjem jïh jieledekvaliteetem sjugnede, jïh aaj barkoesijjieh kultuvren sisnjelen."
+    },
+    {
+      "nb": "Et allsidig kulturliv styrker samisk samhørighet og identitet, og bidrar til levende lokalsamfunn der folk vil bo.",
+      "target": "Gellieligke kultuvrejielede saemien ektievoetedomtesem jïh identiteetem nænnoeste, jïh viehkehte jielije voenges siebriedahkh sjugniedidh gusnie almetjh sijhtieh årrodh."
+    },
+    {
+      "nb": "Tradisjonell kunnskap",
+      "target": "Aerpiedaajroe"
+    },
+    {
+      "nb": "Stedsnavn",
+      "target": "Sijjienommh"
+    },
+    {
+      "nb": "Språksenter",
+      "target": "Gïelejarngse"
+    },
+    {
+      "nb": "Språkteknologi",
+      "target": "Gïeleteknologije"
+    },
+    {
+      "nb": "Språkuke",
+      "target": "Gïelevåhkoe"
+    },
+    {
+      "nb": "Menneskerettighet",
+      "target": "Almetjereaktah"
+    },
+    {
+      "nb": "Lov",
+      "target": "Laake"
+    },
+    {
+      "nb": "Film",
+      "target": "Filmh"
+    },
+    {
+      "nb": "Prosjekt",
+      "target": "Prosjekte"
+    },
+    {
+      "nb": "Informasjon",
+      "target": "Bïevnesh"
+    },
+    {
+      "nb": "Samarbeidsavtale",
+      "target": "Laavenjostoelatjkoe"
+    },
+    {
+      "nb": "Grenseoverskridende",
+      "target": "Raajoerasterje"
+    },
+    {
+      "nb": "Læremidler",
+      "target": "Learoevierhtieh"
+    },
+    {
+      "nb": "Skolemiljø og skoleutvikling",
+      "target": "Skuvlebyjrese jïh skuvleevtiedimmie"
+    },
+    {
+      "nb": "Lover og regler for samisk opplæring",
+      "target": "Laakah jïh njoelkedassh saemien lïerehtæmman"
+    },
+    {
+      "nb": "Grenseoverskridende skolesamarbeid",
+      "target": "Raajoerasterje skuvlelaavenjostoe"
+    },
+    {
+      "nb": "Voksenopplæring",
+      "target": "Geervelïerehtimmie"
+    },
+    {
+      "nb": "Opplæringsmelding",
+      "target": "Lïerehtimmiebïevnese"
+    },
+    {
+      "nb": "Læremiddelutvikling",
+      "target": "Learoevierhtiehevtiedimmie"
+    },
+    {
+      "nb": "Grunnopplæringsløpet",
+      "target": "Maadthlïerehtimmie"
+    },
+    {
+      "nb": "Jordbruk",
+      "target": "Jåartaburrie"
+    },
+    {
+      "nb": "Samisk reiseliv",
+      "target": "Saemien fealadimmiejieleme"
+    },
+    {
+      "nb": "Kreative næringer",
+      "target": "Sjugniedassejieleme"
+    },
+    {
+      "nb": "Havnæringer",
+      "target": "Mearoejielemh"
+    },
+    {
+      "nb": "Utmarksnæringer",
+      "target": "Mïrhkejielemh"
+    },
+    {
+      "nb": "Barnehageloven",
+      "target": "Maanagïertelaake"
+    },
+    {
+      "nb": "Samisk barnehagetilbud",
+      "target": "Saemien maanagïertefaalenasse"
+    },
+    {
+      "nb": "Samiske språksentre",
+      "target": "Saemien gïelejarngsh"
+    },
+    {
+      "nb": "Samiske stedsnavn",
+      "target": "Saemien sijjienommh"
+    },
+    {
+      "nb": "Fakta om samiske språk",
+      "target": "Fakta saemien gïeli bïjre"
+    },
+    {
+      "nb": "Forvaltningsområdet for samiske språk",
+      "target": "Saemien gïeli reeremetsiehkie"
+    },
+    {
+      "nb": "Fiskeri",
+      "target": "Göölemasse"
+    },
+    {
+      "nb": "Turisme",
+      "target": "Turismh"
+    },
+    {
+      "nb": "Landbruk",
+      "target": "Jåartaburrie"
+    },
+    {
+      "nb": "Næringsutvikling",
+      "target": "Jielemeevtiedimmie"
+    },
+    {
+      "nb": "Tilskuddsordning",
+      "target": "Dåarjoeöörnege"
+    },
+    {
+      "nb": "Innovasjon",
+      "target": "Innovasjovne"
+    },
+    {
+      "nb": "Elev",
+      "target": "Learohke"
+    },
+    {
+      "nb": "Lærer",
+      "target": "Lohkehtæjja"
+    },
+    {
+      "nb": "Undervisning",
+      "target": "Ööhpehtimmie"
+    },
+    {
+      "nb": "Skoleår",
+      "target": "Skuvlejaepie"
+    },
+    {
+      "nb": "Pensum",
+      "target": "Learoesoejkesje"
+    },
+    {
+      "nb": "Fag",
+      "target": "Faage"
+    },
+    {
+      "nb": "Eksamen",
+      "target": "Eksaamene"
+    },
+    {
+      "nb": "Karakter",
+      "target": "Aarvoebaakoe"
+    },
+    {
+      "nb": "Kompetanse",
+      "target": "Maehtelesvoete"
+    },
+    {
+      "nb": "Stipend og tilskudd",
+      "target": "Stipeende jïh dåarjoe"
+    },
+    {
+      "nb": "Logg inn i tilskuddsportalen",
+      "target": "Sïjse loggedh dåarjoeportaalese"
+    },
+    {
+      "nb": "Oversikt over stipend",
+      "target": "Stipeendeguvvie"
+    },
+    {
+      "nb": "Oversikt over tilskuddsordninger",
+      "target": "Dåarjoeöörnegehtsieh"
+    },
+    {
+      "nb": "Tilganger i Sametingets tilskuddsportal",
+      "target": "Baahtsemh Saemiedigkien dåarjoeportaalese"
+    },
+    {
+      "nb": "Slik logger du inn i tilskuddsportalen",
+      "target": "Naemhtie dåarjoeportaalese sïjse loggedh"
+    },
+    {
+      "nb": "Enkeltpersoner",
+      "target": "Akteaalmetjh"
+    },
+    {
+      "nb": "Lag bruker med BankID",
+      "target": "Darjoeh utnijam BankID:ine"
+    },
+    {
+      "nb": "Foretak",
+      "target": "Jåarhtaburrie"
+    },
+    {
+      "nb": "Institusjon",
+      "target": "Institisjovne"
+    },
+    {
+      "nb": "Organisasjonsnummer",
+      "target": "Organisasjovnenommere"
+    },
+    {
+      "nb": "Søknad",
+      "target": "Ohtsemh"
+    },
+    {
+      "nb": "Fullmakt",
+      "target": "Faamoeh"
+    },
+    {
+      "nb": "Godkjenne",
+      "target": "Jååhkesjidh"
+    },
+    {
+      "nb": "Registrering av samiske språk i Folkeregisteret",
+      "target": "Registreereme saemien gïelijste Almetjeregisterasse"
+    },
+    {
+      "nb": "Sámi Giellagáldu",
+      "target": "Saemien Gïelegaaltije"
+    },
+    {
+      "nb": "Hjertespråket-utredningen",
+      "target": "Vaajmoegïele"
+    },
+    {
+      "nb": "Sametingets språkstrategier",
+      "target": "Gïelelutnjeme. Saemiedigkien strategijh saemien gïelide"
+    },
+    {
+      "nb": "Språkpriser",
+      "target": "Gïeleheevehtimmieh"
+    },
+    {
+      "nb": "Skolemiljø",
+      "target": "Skuvlebyjrese"
+    },
+    {
+      "nb": "Kreative næringer",
+      "target": "Sjugniedassejielemh"
+    },
+    {
+      "nb": "Register",
+      "target": "Registere"
+    },
+    {
+      "nb": "Innlogging",
+      "target": "Sïjseloggeme"
+    },
+    {
+      "nb": "Bruker",
+      "target": "Utnije"
+    },
+    {
+      "nb": "Portal",
+      "target": "Portaale"
+    },
+    {
+      "nb": "Melding",
+      "target": "Bïevnese"
+    },
+    {
+      "nb": "Oversikt",
+      "target": "Guvvie"
+    },
+    {
+      "nb": "Ordning",
+      "target": "Öörnege"
+    },
+    {
+      "nb": "Urfolk",
+      "target": "Aalmegebyjrese"
+    },
+    {
+      "nb": "Beskyttelse",
+      "target": "Vaarjelimmie"
+    },
+    {
+      "nb": "Fakta om samiske språk",
+      "target": "Saetniesvoeth saemien gïeli bïjre"
+    },
+    {
+      "nb": "De mest brukte samiske språkene i Norge i dag er nordsamisk, lulesamisk og sørsamisk. Pitesamisk, umesamisk og skoltesamisk er i en vitaliseringsfase i Norge.",
+      "target": "Doh saemien gïelh mah jeenjemes åtnasuvvieh daan biejjien leah noerhtesaemien, julevsaemien jïh åarjelsaemien. Pijtesaemien, upmejesaemien jïh skoltesaemien leah orrestimmieboelhkesne Nöörjesne."
+    },
+    {
+      "nb": "I internasjonal sammenheng er alle samiske språk karakterisert som truede, alvorlig truede eller nesten utdødde språk.",
+      "target": "Gaskenasjonaale ektiedimmesne gaajhkh saemien gïelh leah gohtjesovveme håvhtadihks, itjmies håvhtadihks jallh mahte nåhkehtamme gïelh."
+    },
+    {
+      "nb": "Samiske språk er beskyttet av blant annet ILO-konvensjon 169, Norges grunnlov, Stedsnavnloven, Samelovens språkregler og gjennom opplæringsloven.",
+      "target": "Saemien gïelh leah vaarjelamme gaskem jeatjah daejstie laakijste, ILO-konvensjovne169, Nöörjen maadthlaake, Sijjienommelaake, Saemielaaken gïelenjoelkdassh Nöörjesne jïh ööhpehtimmielaaken tjïrrh."
+    },
+    {
+      "nb": "Internasjonalt er samiske språk beskyttet av blant annet nordisk språkdeklarasjon og European Charter for Regional and Minority Languages.",
+      "target": "Gaskenasjonaale suerkesne saemien gïelh leah vaarjelamme gaskem jeatjah noerhtelaanti gïeledeklaraasjovneste jïh European Charter for Regional and Minority Languages."
+    },
+    {
+      "nb": "Truet språk",
+      "target": "Håvhtadihks gïele"
+    },
+    {
+      "nb": "Alvorlig truet",
+      "target": "Itjmies håvhtadihks"
+    },
+    {
+      "nb": "Nesten utdødd",
+      "target": "Mahte nåhkehtamme"
+    },
+    {
+      "nb": "Vitaliseringsfase",
+      "target": "Orrestimmieboelhke"
+    },
+    {
+      "nb": "Språkområde",
+      "target": "Gïeledajve"
+    },
+    {
+      "nb": "Riksgrense",
+      "target": "Rïjhkeraaste"
+    },
+    {
+      "nb": "Opplæringslov",
+      "target": "Ööhpehtimmielaake"
+    },
+    {
+      "nb": "Stedsnavnloven",
+      "target": "Sijjienommelaake"
+    },
+    {
+      "nb": "Forvaltningsområdet for samiske språk",
+      "target": "Saemien gïeli reeremedajve"
+    },
+    {
+      "nb": "I forvaltningsområdet for samiske språk er samisk og norsk likestilte språk. Det betyr at alle har rett til å bli betjent på samisk når de henvender seg til offentlige etater i forvaltningsområdet.",
+      "target": "Saemien gïeli reeremedajvesne saemien jïh nöörjen leah mïrrestalleldh gïelh. Daate sæjhta jiehtedh gaajhkesh reaktam utnieh viehkiem åadtjodh saemien gïelesne gosse gaskesem vaeltieh byögkeles etaatigujmie saemien gïeli reeremedajvesne."
+    },
+    {
+      "nb": "Språkutviklingskommuner",
+      "target": "Gïeleevtiedimmietjïelth"
+    },
+    {
+      "nb": "Språkvitaliseringskommuner",
+      "target": "Gïeleorrestimmietjïelth"
+    },
+    {
+      "nb": "Språkstimuleringskommuner",
+      "target": "Gïelemovtijidimmietjïelth"
+    },
+    {
+      "nb": "Likestilte språk",
+      "target": "Mïrrestalleldh gïelh"
+    },
+    {
+      "nb": "Offentlige etater",
+      "target": "Byögkeles etaath"
+    },
+    {
+      "nb": "Rett til å bli betjent på samisk",
+      "target": "Reaktam utnieh viehkiem åadtjodh saemien gïelesne"
+    },
+    {
+      "nb": "Hattfjelldal",
+      "target": "Aarborte"
+    },
+    {
+      "nb": "Snåsa",
+      "target": "Snåase"
+    },
+    {
+      "nb": "Røyrvik",
+      "target": "Raarvihke"
+    },
+    {
+      "nb": "Røros",
+      "target": "Rosse"
+    },
+    {
+      "nb": "Med samisk barnehagetilbud menes et tilbud der innholdet i barnehagen bygger på samisk språk og kultur.",
+      "target": "Saemien maanagïertefaalenasse lea faalenasse gusnie maanagïerten sisvege saemien gïelem jïh kultuvrem våaroeminie åtna."
+    },
+    {
+      "nb": "Barnehagen skal styrke barnas identitet som samer ved å fremme bruken av samisk språk og ved å fremme, bruke og utvikle samisk språk og kultur.",
+      "target": "Maanagïerte edtja maanaj identiteetem nænnoestidh goh saemieh viehkine åtnoen saemien gieleste eevtjedh jïh saemien gïelem jïh kultuvrem eevtjedh, nuhtjedh jïh evtiedidh."
+    },
+    {
+      "nb": "Barnehagen ledes av samiskspråklige pedagogisk personale.",
+      "target": "Maanagïerte stuvresåvva saemiengïeleldh pedagogeles barkijijstie."
+    },
+    {
+      "nb": "Sametinget legger til rette for samisk barnehagetilbud gjennom politikkutvikling og forvaltning av tilskudd til barnehagene.",
+      "target": "Saemiedigkie saemien maanagïertefaalenassese sjïehteladta politihkeevtiedimmien jïh dåarjoereeremem tjïrrh maanagiertide."
+    },
+    {
+      "nb": "Barnehager som gir et samisk barnehagetilbud kan søke på de ulike tilskuddsordningene.",
+      "target": "Maanagïerth mah saemien maanagïertefaalenassem vedtieh maehtieh dejtie ovmessie dåarjoeöörnegidie syökedh."
+    },
+    {
+      "nb": "Pedagogisk personale",
+      "target": "Pedagogeles barkijh"
+    },
+    {
+      "nb": "Samiskspråklig",
+      "target": "Saemiengïeleldh"
+    },
+    {
+      "nb": "Politikkutvikling",
+      "target": "Politihkeevtiedimmie"
+    },
+    {
+      "nb": "Rammeplan",
+      "target": "Raammasoejkesje"
+    },
+    {
+      "nb": "Veileder",
+      "target": "Bihkedimmie"
+    },
+    {
+      "nb": "Samarbeidspartner",
+      "target": "Laavenjostoegoevtese"
+    },
+    {
+      "nb": "Språkopplæring",
+      "target": "Gïelelïerehtimmie"
+    },
+    {
+      "nb": "Avdeling",
+      "target": "Goevtese"
+    },
+    {
+      "nb": "Innhold",
+      "target": "Sisvege"
+    },
+    {
+      "nb": "Sametingsmelding om duodji som næring",
+      "target": "Saemiedigkiebïevnese duedtien bïjre goh jieleme"
+    },
+    {
+      "nb": "Næringsavtalen for duodji",
+      "target": "Duedtien jielemelatjkoe"
+    },
+    {
+      "nb": "Barnevern",
+      "target": "Maanavaarjelimmie"
+    },
+    {
+      "nb": "Sosial",
+      "target": "Sosijaale"
+    },
+    {
+      "nb": "Bygningsvern",
+      "target": "Gåetievaarjelimmie"
+    },
+    {
+      "nb": "Sametingspresident",
+      "target": "Saemiedigkiepresideente"
+    },
+    {
+      "nb": "Komitémøte",
+      "target": "Komiteatjåanghkoe"
+    },
+    {
+      "nb": "Demokrati",
+      "target": "Demokratije"
+    },
+    {
+      "nb": "Frihet",
+      "target": "Frïjjevoethe"
+    },
+    {
+      "nb": "Fred",
+      "target": "Raeffie"
+    },
+    {
+      "nb": "Natur",
+      "target": "Luondoe"
+    },
+    {
+      "nb": "Elv",
+      "target": "Johke"
+    },
+    {
+      "nb": "Fjell",
+      "target": "Vaerie"
+    }
+  ]
+}
