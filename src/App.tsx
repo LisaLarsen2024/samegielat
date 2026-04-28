@@ -28,6 +28,8 @@ export default function App() {
   const [dictResults, setDictResults] = useState<DictResult[]>([]);
   const [tmxResults, setTmxResults] = useState<TmxResult[]>([]);
   const textareaRef = useRef<HTMLTextAreaElement>(null);
+  const [unlocked, setUnlocked] = useState(false);
+  const [pw, setPw] = useState("");
 
   const currentLang = LANG_OPTIONS.find((l) => l.code === lang)!;
 
@@ -88,7 +90,20 @@ export default function App() {
 
   const copyToClipboard = async () => { await navigator.clipboard.writeText(result); setCopied(true); setTimeout(() => setCopied(false), 2000); };
   const handleKeyDown = (e: React.KeyboardEvent<HTMLTextAreaElement>) => { if (e.key === "Enter" && (e.metaKey || e.ctrlKey)) translate(); };
-
+if (!unlocked) return (
+    <div style={{ minHeight: "100vh", background: "#0F0F1A", display: "flex", alignItems: "center", justifyContent: "center" }}>
+      <div style={{ textAlign: "center" }}>
+        <h1 style={{ fontSize: "2.5rem", fontWeight: 700, fontFamily: "'Playfair Display', Georgia, serif", color: "#FFFFFF", marginBottom: "0.5rem" }}>Sámegielat</h1>
+        <p style={{ fontSize: "0.9rem", color: "#7A7590", marginBottom: "2rem" }}>Skriv inn passord for å fortsette</p>
+        <input type="password" value={pw} onChange={e => setPw(e.target.value)} onKeyDown={e => { if (e.key === "Enter" && pw === "Bures2026") setUnlocked(true); }}
+          placeholder="Passord..." style={{ width: "260px", padding: "0.85rem 1.1rem", fontSize: "1rem", color: "#E8E4DE", background: "rgba(255,255,255,0.04)", border: "1px solid rgba(255,255,255,0.08)", borderRadius: "12px", outline: "none", fontFamily: "'DM Sans', sans-serif", textAlign: "center" }} />
+        <br />
+        <button onClick={() => { if (pw === "Bures2026") setUnlocked(true); }}
+          style={{ marginTop: "1rem", padding: "0.75rem 2.5rem", fontSize: "0.95rem", fontWeight: 600, color: "#FFF", background: "linear-gradient(135deg, #DC241F 0%, #0035AD 35%, #007229 70%, #FFCE00DD 100%)", backgroundSize: "300% 300%", border: "none", borderRadius: "12px", cursor: "pointer", fontFamily: "'DM Sans', sans-serif" }}>Gå inn</button>
+        {pw.length > 0 && pw !== "Bures2026" && <p style={{ marginTop: "1rem", fontSize: "0.8rem", color: "#FF6B6B" }}>Feil passord</p>}
+      </div>
+    </div>
+  );
   return (
     <div style={{ minHeight: "100vh", background: "#0F0F1A", position: "relative", overflow: "hidden" }}>
       <div style={{ position: "fixed", inset: 0, pointerEvents: "none", zIndex: 0 }}>
@@ -221,10 +236,7 @@ export default function App() {
               <div key={i} style={{ width: "3px", height: "3px", borderRadius: "50%", background: c, opacity: 0.3 }} />
             ))}
           </div>
-          <p style={{ fontSize: "0.68rem", color: "#2D2A40" }}>
-            Laget av{" "}
-            <a href="https://skrivakademisk.no" target="_blank" rel="noopener" style={{ color: "#4A4660", textDecoration: "none", borderBottom: "1px solid rgba(255,255,255,0.06)" }}>Skriv Akademisk AS</a>
-          </p>
+          <p style={{ fontSize: "0.68rem", color: "#2D2A40" }}>Sámegielat © 2026</p>
         </div>
       </div>
     </div>
